@@ -3,11 +3,10 @@ topic: "github.com: creating private repos under an organization"
 desc: "for closed source class assignments"
 ---
 
-We use github.com organizations such as <https://github.com/UCSB-CS56-M16> and <https://github.com/UCSB-CS56-F16> to set up a space
+We use github.com organizations such as <https://github.com/ucsb-cs16-f16> and <https://github.com/ucsb-cs16-w17> to set up a space
 on github.com where every repo that you create can automatically be seen by your instructors and TAs without you having to add them manually as collaborators.
 
-To create a private repo for a Java assignment on github.com, follow this procedure.
-
+To create a private repo for a C++ assignment on github.com, follow this procedure.
 
 # Choosing a name
 
@@ -27,6 +26,6 @@ They will have my full support.
 -   Select "private".                                                                            
 -   Check the box that says "Initialize this repository with a README.                           
     -   This is important because if you don't do this, the repo may have no content, and you can't clone a repo with no content.
--   Click the pull-down menu for "Add .gitignore" and select Java.
+-   Click the pull-down menu for "Add .gitignore" and select C++
 
 Then create the repo.

@@ -35,30 +35,30 @@ You'll come back to this link in a moment.
 
 # Cloning the repo on CSIL
 
-Open a shell on your CSIL account, and create a directory for your course, e.g. cs56:
+Open a shell on your CSIL account, and create a directory for your course, e.g. cs16:
 
-    -bash-4.2$ mkdir -p ~/cs56
-    -bash-4.2$ cd ~/cs56
+    -bash-4.2$ mkdir -p ~/cs16
+    -bash-4.2$ cd ~/cs16
     -bash-4.2$ pwd
-    /cs/student/bobgaucho/cs56
+    /cs/student/bobgaucho/cs16
     -bash-4.2$
 
 Now you will "clone" your repository. This creates a copy of your
 repository—which is a separate repository in its own right—in your
-cs56 directory on the CSIL systems.
+cs16 directory on the CSIL systems.
 
 Copy the clone URL from the github window.
 
 - Note that this is NOT THE SAME as the URL shown in the browser url window. Don't copy that one!
 - The URL should end with the letters `.git`
 
-Next, in the terminal window where you are in your ~/cs56 directory,
+Next, in the terminal window where you are in your ~/cs16 directory,
 type the command below to clone the repository into a new directory 
 that has the same name as your repo (e.g. lab00_jgaucho).
 Be sure to replace the URL shown below with the one you copied 
 from the web page.
 
-    $ git clone https://github.com/UCSB-CS56-M16/lab00-jgaucho.git
+    $ git clone https://github.com/UCSB-CS16-M16/lab00-jgaucho.git
     ...
 
 and you should see something like this. If you used an https link, you will be asked for a
@@ -66,7 +66,7 @@ username and password. Note that this is your github username and password.  If 
 an ssh url, you won't need to put in a username/password (unless you protected your ssh key 
 with a passphrase).
 
-    -bash-4.2$ git clone https://github.com/UCSB-CS56-M16/lab00-jgaucho.git
+    -bash-4.2$ git clone https://github.com/UCSB-CS16-M16/lab00-jgaucho.git
     Cloning into 'lab00-jgaucho'...
     Username for 'https://github.com': jgaucho
     Password for 'https://bgaucho@github.com':

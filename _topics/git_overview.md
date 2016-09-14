@@ -6,7 +6,7 @@ desc: "An introduction. git vs. github.com vs. github.ucsb.edu, repos, etc."
 A few basics facts about git, github.com, and github.ucsb.edu
 ----------------------------------------------------------------------------
 
-In addition to learning Java, one of the major goals of this course is to get really comfortable\
+In addition to learning C++, one of the major goals of this course is to get really comfortable\
  with "version control", using a tool called "git" and a website called "github.com", and one ca\
 lled "github.ucsb.edu". Our first step is to "clone a github repo".
 

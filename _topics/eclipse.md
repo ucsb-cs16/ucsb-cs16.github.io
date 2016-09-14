@@ -60,12 +60,5 @@ directory.
 Refer the Eclipse [installation guide](http://wiki.eclipse.org/Eclipse/Installation)
 if you encounter trouble.
 
-## Starting Eclipse
-
-WIP
-
-## Importing an Existing Java Project
-
-WIP
 
 See also: [IDEs](/topics/ides/)

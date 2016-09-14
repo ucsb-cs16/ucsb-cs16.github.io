@@ -11,7 +11,7 @@ This is explained in much more detail below, but is here at the top of the page 
 
 ```
 git pull
-git add myfile.java
+git add myfile.cpp
 git commit -m "Describe what you did here"
 git push origin master
 ```
@@ -22,22 +22,12 @@ In practice, its a good habit to do a `git status` in between each step, so in r
 git status
 git pull
 git status
-git add myfile.java
+git add myfile.cpp
 git status
 git commit -m "Describe what you did here"
 git status
 git push origin master
 git status
-```
-
-Finally, if you are using the working in a private repo (say `lab00_jgaucho`) but publishing javadoc to a public repo in parallel (e.g. `lab00_javadoc_jgaucho`) that is a sibling directory (as [described on this page](/topics/javadoc_publishing_to_github_pages_from_private_repo)), you should add this to your workflow:
-
-```
-ant javadoc
-cd ../public_reponame_here
-git add javadoc
-git commit -m "new javadoc"
-git push origin gh-pages
 ```
 
 The rest of this page describes "what it all means".
@@ -179,12 +169,12 @@ Here is what a git status looks like:
     Untracked files:
       (use "git add <file>..." to include in what will be committed)
 
-            MyFirstApp.java
+            my_program.cpp
 
     nothing added to commit but untracked files present (use "git add" to track)
     -bash-4.2$    
 
-The message here shows that we've made a change to MyFirstApp.java that hasn't been committed.
+The message here shows that we've made a change to `my_program.cpp` that hasn't been committed.
 
 To tell git that we want this file to be part of our commit, we use the command "git add", which is the next step.
 
@@ -192,11 +182,11 @@ To tell git that we want this file to be part of our commit, we use the command 
 
 Nothing goes into a commit unless we specifically tell git we want it to be a part of the commit. The git status command can be used to tell us what we might want to add to the commit, but ultimately, it is up to us to make this choice.
 
-Type the following: git add MyFirstApp.java
+Type the following: `git add my_program.cpp`
 
 It should look like this:
 
-    -bash-4.2$ git add MyFirstApp.java
+    -bash-4.2$ git add my_program.cpp
     -bash-4.2$ 
 
 It typical 'unix command" fashion, there is no output, which means "it worked." But if we want to really see that it worked, we can type "git status" again:
@@ -206,11 +196,11 @@ It typical 'unix command" fashion, there is no output, which means "it worked." 
     # Changes to be committed:
     #   (use "git reset HEAD <file>..." to unstage)
     #
-    #   modified:   MyFirstApp.java
+    #   modified:   my_program.cpp
     #
     -bash-4.2$ 
 
-Now we see that when we do our next commit, MyFirstApp.java will be part of the commit. So, let's do that now.
+Now we see that when we do our next commit, `my_program.cpp` will be part of the commit. So, let's do that now.
 
 # Use `git` `commit` `-m` `"some` `message` `here"`
 
@@ -218,14 +208,14 @@ This will to commit these files to the LOCAL repository (the one in our CSIL dir
 
 When we commit, we need to add a message that describes what change we made to the file. These are typically short. For example, in this case our message might be:
 
-    Added javadoc comment
+    Added Comment
 
-So type this command: git commit -m "Added Javadoc Comment"
+So type this command: git commit -m "Added Comment"
 
 Here's an example:
 
-    -bash-4.2$ git commit -m "Added Javadoc Comment"
-    [master 7180ef4] Added Javadoc Comment
+    -bash-4.2$ git commit -m "Added Comment"
+    [master 7180ef4] Added Comment
      1 file changed, 7 insertions(+), 1 deletion(-)
     -bash-4.2$ 
 
