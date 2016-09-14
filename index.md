@@ -4,7 +4,7 @@ title: UCSB CS16
 
 # Problem Solving with Computers I
 
-<div id="about" data-role="collapsible" data-collapsed="false" markdown="1">
+<div id="about" data-role="collapsible" data-collapsed="true" markdown="1">
 <h2>About this course</h2>
 
 A course taught in the [Dept. of Computer Science](http://www.cs.ucsb.edu) at
