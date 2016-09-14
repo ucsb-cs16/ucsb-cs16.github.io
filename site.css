@@ -1,0 +1,17 @@
+---
+layout: null
+---
+
+p.topic-summary {
+    font-style: italic;
+}
+
+@media print {
+	div.header {display: none; }
+	div.footer {display: none; }
+	body { 
+		font-size: 12px;
+		font-family: "Times New Roman",  serif;
+	}
+}
+

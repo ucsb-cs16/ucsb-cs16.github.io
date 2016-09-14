@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  {% include head.html %} 
+  <title>{% if page.title %} {{ page.title }} | {% endif %} {{ site.name }}</title>
+  </head>
+  <body id="page-top">
+    <div id="container" data-role="page">
+    {% include nav.html %}
+    <div id="content"  class="ui-content">
+    {% if page.title %}<h1>{{page.title}}</h1>{% endif %}
+    {% if page.textbook == "HFJ" %}{% include read_hfj_online.html %}{% else %}{{page.textbook}}{% endif %}   
+    {% if page.textbook == "HFDP" %}{% include read_hfdp_online.html %}{% endif %}   
+    {% if page.desc or page.chapter %}
+      <h2>
+	{% if page.chapter %}{{page.chapter}}:&nbsp;{% endif %}
+	{% if page.desc %}{{page.desc}}{% endif %}
+      </h2>
+    {% endif %}
+    {{ content }}
+    </div><!-- content -->
+    {% include footer.html %}
+    </div><!-- container -->
+  </body>
+</html>
