@@ -1,5 +1,5 @@
 ---
-topic: "Antipatterns"
+topic: "antipatterns"
 desc: "Things to avoid in your code"
 ---
 
