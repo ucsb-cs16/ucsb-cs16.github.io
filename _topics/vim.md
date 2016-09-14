@@ -35,3 +35,17 @@ Since this page is about vim, we won't mention emacs further.
 And a bonus:
 
 * `:u` means "undo".
+
+
+
+# Finding and Replacing
+
+* To go to a specific line number: `:[LINE_NUMBER]`
+    * For instance, if I was trying to go to line 181 in a file, I would enter `:181`
+
+* To search for a character string: `/[STRING]`
+    * Note that you may need to use the escape character `\` before any special characters 
+
+* To search/replace (e.g. change `old` to `new`):
+    * To replace the first encountered instance of a string: `:%s/old/new/`
+    * To replace all instances of a string: `:%s/old/new/g`
