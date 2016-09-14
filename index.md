@@ -2,7 +2,7 @@
 title: UCSB CS16
 ---
 
-# [CS16: Problem Solving with Computers I](https://www.cs.ucsb.edu/education/courses/cmpsc-16)
+# [Problem Solving with Computers I](https://www.cs.ucsb.edu/education/courses/cmpsc-16)
 
 <div id="about" data-role="collapsible" data-collapsed="false" markdown="1">
 <h2>About this course</h2>
