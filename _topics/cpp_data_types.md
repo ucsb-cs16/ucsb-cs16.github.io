@@ -12,13 +12,13 @@ Since CS16 is NOT your first programming course—if it is, you are in
 the WRONG class—I am assuming you already understand that programming
 languages have various data types for things like:
 
-  type                                                                               examples
-  ---------------------------------------------------------------------------------- ---------------------------------------------------------------
-  integers                                                                           3, -42, 0
-  real numbers (i.e. numbers with a decimal point that may or may not be integers)   3.14159, -2.5, 4.0
-  strings                                                                            "UCSB", "deadmau5", "4+4"
-  groups of things (arrays, lists, structures, tuples, objects)                      { "UCSB", "UCLA", "UCSD" }, { "Chris Gaucho", 1234567, 3.57 }
-  etc...
+|type                                                                   |examples |
+|-----------------------------------------------------------------------|---------|
+| integers                                                              | 3, -42, 0 |
+| real numbers (i.e. numbers with a decimal point that may or may not be integers) |  3.14159, -2.5, 4.0 |
+| strings | "UCSB", "deadmau5", "4+4" |
+| groups of things (arrays, lists, structures, tuples, objects) | `{ "UCSB", "UCLA", "UCSD" }`, `{ "Chris Gaucho", 1234567, 3.57 }` |
+
 
 If you are saying, well, of course—I remember that idea from the last
 programming class I took&mash;then: good. We can build on that
