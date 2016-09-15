@@ -1,6 +1,7 @@
 ---
 topic: "git: cloning your first repo"
 desc: "A guide for those new to git"
+indent: true
 ---
 
 The instructions below are written from the standpoint of someone that has never used git before on CSIL. 
