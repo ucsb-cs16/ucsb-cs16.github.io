@@ -1,6 +1,7 @@
 ---
 topic: "github: using ssh keys"
 desc: "generating public/private key pair, uploading public key to github"
+indent: true
 ---
 
 This is a tutorial on how to:
