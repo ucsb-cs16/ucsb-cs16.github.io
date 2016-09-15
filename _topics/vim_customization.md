@@ -1,6 +1,7 @@
 ---
 topic: "vim: customization"
 desc: "customizing vim for your purposes"
+indent: true
 ---
 
 # Editing your `~/.vimrc`
