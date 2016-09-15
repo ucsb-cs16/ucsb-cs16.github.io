@@ -8,6 +8,7 @@ legacy_wiki_url: "https://foo.cs.ucsb.edu/16wiki"
 on_campus: http://proquest.safaribooksonline.com
 off_campus: http://proquest.safaribooksonline.com.proxy.library.ucsb.edu:2048/
 
+instructor: https://ucsb-cs16.github.io/instructor
 
 #kramdown:
 #  parse_block_html: true
