@@ -1,11 +1,8 @@
-# UCSB-CS56-pconrad.github.io
-Jekyll-based website for CS56
+# ucsb-cs16.github.io
 
-website: https://UCSB-CS56-pconrad.github.io
+Jekyll-based website for course materials for CS16 shared across instructors.
 
-Jekyll status on Travis-CI: [![Build Status](https://travis-ci.org/UCSB-CS56-pconrad/UCSB-CS56-pconrad.github.io.svg?branch=master)](https://travis-ci.org/UCSB-CS56-pconrad/UCSB-CS56-pconrad.github.io)
-* Travis-ci: https://travis-ci.org/UCSB-CS56-pconrad/UCSB-CS56-pconrad.github.io
-* To add a status image like this in your README.md, see [these instructions](https://docs.travis-ci.com/user/status-images/)
+Website: https://ucsb-cs16.github.io
 
 To test locally:
 * One time setup:
