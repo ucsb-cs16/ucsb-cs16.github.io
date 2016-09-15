@@ -25,7 +25,7 @@ This site is maintained in this github repo: <https://github.com/ucsb-cs16/ucsb-
     <ul>
       {% assign textbooks = site.textbooks | sort: 'custom_sort_order' %}
       {% for textbook in textbooks %}
-         <li><a href="{{textbook.url}}">{{ textbook.title }}</a>&mdash;{{textbook.desc}}</li>
+         <li {% if topic.indent %} class="indent" {% endif %}><a href="{{textbook.url}}">{{ textbook.title }}</a>&mdash;{{textbook.desc}}</li>
       {% endfor %}
     </ul>
 </div>
@@ -44,7 +44,7 @@ This site is maintained in this github repo: <https://github.com/ucsb-cs16/ucsb-
   <h2>Resources</h2>
   <ul>
    {% for topic in site.resources %}
-     <li><a href="{{topic.url}}">{{ topic.topic }}</a>&mdash;{{topic.desc}}</li>
+     <li {% if topic.indent %} class="indent" {% endif %}><a href="{{topic.url}}">{{ topic.topic }}</a>&mdash;{{topic.desc}}</li>
    {% endfor %}
   </ul>
 </div>
