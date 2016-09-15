@@ -10,5 +10,14 @@ also the year that the first commerical implementation was made available.
 
 Even though C++ is over 30 years old, it is still widely used, especially in systems that need raw compute speed.
 
-More on C++:
 
+<div data-role="collapsible" data-collapsed="false">
+  <h2>More on C++</h2>
+  <ul>
+   {% for topic in site.topics %}
+       {% if topic.topic contains "C++: " %} 
+           <li><a href="{{topic.url}}">{{ topic.topic }}</a>&mdash;{{topic.desc}}</li>
+       {% endif %}
+   {% endfor %}
+  </ul>
+</div>
