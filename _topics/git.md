@@ -1,5 +1,5 @@
 ---
-topic: "git: overview"
+topic: "git/github: overview"
 desc: "An introduction. git vs. github.com vs. github.ucsb.edu, repos, etc."
 ---
 
