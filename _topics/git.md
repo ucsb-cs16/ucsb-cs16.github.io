@@ -55,7 +55,7 @@ We may use github.com for some assignments and github.ucsb.edu for others.
   <h2>More on git/github</h2>
   <ul>
    {% for topic in site.topics %}
-       {% if topic.topic contains "git/github: " %} 
+       {% if topic.topic contains "git: " or topic.topic contains "github: "%} 
            <li><a href="{{topic.url}}">{{ topic.topic }}</a>&mdash;{{topic.desc}}</li>
        {% endif %}
    {% endfor %}
