@@ -31,7 +31,7 @@ The exams linked to here are offered to help you study and prepare for your own 
 <div id="pre_f14" data-role="collapsible" data-collapsed="true" markdown="1">
 <h2>Exams from prior to Fall 2014 (C language, not C++)</h2>
 
-CAUTION!   These exams were based on an offering of CS16 that was very different from the one you may be taking now!
+<b>CAUTION!</b>   These exams were based on an offering of CS16 that was very different from the one you may be taking now!
 
 * It was taught using C rather than C++
 * The pace was slower
