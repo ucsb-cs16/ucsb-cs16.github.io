@@ -3,7 +3,7 @@ topic: "sample exams"
 desc: "Exams from previous offerings of CS16"
 ---
 
-<div id="disclaimer" data-role="collapsible" data-collapsed="false">
+<div id="disclaimer" data-role="collapsible" data-collapsed="false" markdown="1">
 <h2>Disclaimer</h2>
 
 The exams linked to here are offered to help you study and prepare for your own exams.  However, you should recognize their limitations:
