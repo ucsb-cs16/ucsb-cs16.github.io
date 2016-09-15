@@ -6,7 +6,17 @@ desc: "Exams from previous offerings of CS16"
 <div id="disclaimer" data-role="collapsible" data-collapsed="false" markdown="1">
 <h2>Disclaimer</h2>
 
+<b>CAUTION!</b>   These exams were based on an offering of CS16 that may be very different from the one you may be taking now!
+
 The exams linked to here are offered to help you study and prepare for your own exams.  However, you should recognize their limitations:
+
+* Student preparation in CS16 has improved each quarter (due to greater competition to enter the UCSB CS program, and stricter enforcement of pre-requisities)
+* The department's experience with offering CS16 in C++ has improved since Fall 2014, when the course was first changed to that language.
+
+As a result, the content, rigor, and pace of CS16 have all moved in the direction of greater learning, and greater challenge.   So, don't be lured into a false sense of security if these exams seem "easy".    Take them as a "lower bound" for what you might encounter
+on your exam.
+
+In addition, even among recent exams, there are differences:
 
 * Each time the course is taught, even by the same instructor, the exact coverage, pace, and placement of exams may vary.
     * Sometimes topics are covered in a different order
@@ -16,6 +26,9 @@ The exams linked to here are offered to help you study and prepare for your own 
     * While some topics are core to CS16, and *always* covered, some topics are "helpful" but not "core".  
     * Nevertheless, some of those topics may appear on exams from other quarters, even though they are not covered in your course.
     * Conversely, there may be topics that show up on your exams that do not appear on any of the practice exams here.
+
+Finally, these disclaimers:
+
 * The language of instruction for CS16 changed from C to C++ starting Fall 2014.   
     * So exams from quarters prior to Fall 2014 will be of limited relevance.
 * NOT ALL PRIOR EXAMS ARE AVAILABLE
@@ -25,6 +38,20 @@ The exams linked to here are offered to help you study and prepare for your own 
     * If if were available, it would already be posted.
     * The maintainers of this web site reserve the right to ignore requests for exams or answer keys that are not already posted here
       (unless those requests come from UCSB CS department faculty.)
+
+Ok, now the exams:
+
+</div>
+
+
+<div id="pre_f14" data-role="collapsible" data-collapsed="false" markdown="1">
+<h2>Exams from Fall 2014 forward (C++)</h2>
+
+| Quarter | Instructor| Midterm E01 | Midterm E02 | Final |
+|---------|-----------|-------------|-------------|-------|
+| F14     | Conrad    | [E01](http://www.cs.ucsb.edu/~pconrad/cs16/14F/exams/E01/) | [E02](http://www.cs.ucsb.edu/~pconrad/cs16/14F/exams/E02/) | [E03](http://www.cs.ucsb.edu/~pconrad/cs16/14F/exams/E03/) |
+| S15     | Conrad    | [E01](http://www.cs.ucsb.edu/~pconrad/cs16/15S/exams/E01/) | [E02](http://www.cs.ucsb.edu/~pconrad/cs16/15S/exams/E02/) | [E03](http://www.cs.ucsb.edu/~pconrad/cs16/15S/exams/E03/) |
+
 </div>
 
 
