@@ -29,9 +29,9 @@ collections:
     output: true
     permalink: /resources/:path/
     
-  instructor:
+  instructors:
     output: true
-    permalink: /instructor/:path/
+    permalink: /instructors/:path/
 
 
 defaults:
