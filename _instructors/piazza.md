@@ -1,5 +1,5 @@
 ---
-topic: "Piazza"
+topic: "piazza"
 desc: "Forum for classroom discussions"
 ---
 
