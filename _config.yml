@@ -28,6 +28,11 @@ collections:
   resources:
     output: true
     permalink: /resources/:path/
+    
+  instructor:
+    output: true
+    permalink: /instructor/:path/
+
 
 defaults:
   -
@@ -45,5 +50,10 @@ defaults:
   - scope:
       path: ""
       type: resources
+    values:
+      layout: topic
+  - scope:
+      path: ""
+      type: instructor
     values:
       layout: topic
