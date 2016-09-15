@@ -27,7 +27,7 @@ desc: "general purpose text editor with programmer-friendly features"
     * Instead press escape, then RELEASE, then press x and release.
     * This is awkward the first few times you do it, then you get used to it.
 
-# About `M-x`, the "named command" key =
+# About `M-x`, the "named command" key 
 
 There are lots of commands in emacs that are "named commands", and not bound to any key by default.  
 To execute them, you bring up the emacs "command line", which you do by typing `M-x` (type `escape` once, then `x` once.).
