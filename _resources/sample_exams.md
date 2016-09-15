@@ -49,7 +49,8 @@ Ok, now the exams:
 
 | Quarter | Instructor| Midterm E01 | Midterm E02 | Final |
 |---------|-----------|-------------|-------------|-------|
-| F14     | Conrad    | [E01](http://www.cs.ucsb.edu/~pconrad/cs16/14F/exams/E01/actualExam/) | [E02](http://www.cs.ucsb.edu/~pconrad/cs16/14F/exams/E02/pdf/E02.sample.pdf) | [E03](http://www.cs.ucsb.edu/~pconrad/cs16/14F/exams/E03/CS16-F14-E03.pdf) <br> [Partial Key](http://www.cs.ucsb.edu/~pconrad/cs16/14F/exams/E03/CS16-F14-E03_Key.pdf)|
+| F14     | Conrad    | [E01](http://www.cs.ucsb.edu/~pconrad/cs16/14F/exams/E01/actualExam/) | [E02](http://www.cs.ucsb.edu/~pconrad/cs16/14F/exams/E02/pdf/E02.sample.pdf) | [E03](http://www.cs.ucsb.edu/~pconrad/cs16/14F/exams/E03/CS16-F14-E03.pdf) <br> [Partial Key](http://www.cs.ucsb.edu/~pconrad/cs16/14F/exams/E03/CS16-F14-E03_Key.pdf) |
+
 | W15     | Conrad    | [E01](http://www.cs.ucsb.edu/~pconrad/cs16/15W/exams/E01/cs16-15W-E01-sample.pdf)<br> [Partial Key](http://www.cs.ucsb.edu/~pconrad/cs16/15W/exams/E01/cs16-15W-E01-partial-key.pdf) | [E02](http://www.cs.ucsb.edu/~pconrad/cs16/15W/exams/E02/CS16_W15_E02.pdf)<br> [Handout](http://www.cs.ucsb.edu/~pconrad/cs16/15W/exams/E02/CS16_W15_E02_Handout.pdf)<br>[Partial Key](http://www.cs.ucsb.edu/~pconrad/cs16/15W/exams/E02/CS16_W15_E02_Key.pdf) | [E03](http://www.cs.ucsb.edu/~pconrad/cs16/15W/exams/E03/CS16_W15_E03.pdf)<br> [Handout](http://www.cs.ucsb.edu/~pconrad/cs16/15W/exams/E03/CS16_W15_E03_Handout.pdf)<br>[Partial Key](http://www.cs.ucsb.edu/~pconrad/cs16/15W/exams/E03/CS16_W15_E03_Key.pdf) |
 </div>
 
