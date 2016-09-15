@@ -30,3 +30,8 @@ table * td {
 	border: 1px solid black;
 	padding: 2px;
 }
+
+.indent {
+	margin-left: 3em;	
+}
+}
