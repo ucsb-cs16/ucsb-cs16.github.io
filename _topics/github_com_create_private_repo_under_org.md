@@ -1,5 +1,5 @@
 ---
-topic: "github.com: creating private repos under an organization"
+topic: "github: creating private repos under an organization"
 desc: "for closed source class assignments"
 indent: true
 ---
