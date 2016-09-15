@@ -34,7 +34,7 @@ This site is maintained in this github repo: <https://github.com/ucsb-cs16/ucsb-
   <h2>Topics</h2>
   <ul>
    {% for topic in site.topics %}
-     <li><a href="{{topic.url}}">{{ topic.topic }}</a>&mdash;{{topic.desc}}</li>
+     <li {% if topic.indent %} class="indent" {% endif %}><a href="{{topic.url}}">{{ topic.topic }}</a>&mdash;{{topic.desc}}</li>
    {% endfor %}
   </ul>
 </div>
