@@ -1,6 +1,7 @@
 ---
 topic: "emacs: customization"
 desc: "making changes that happen every time you run emacs"
+indent: true
 ---
 
 Stuff on this page is for when you are already really comfortable with the basics of emacs, and are ready to go beyond the basics.  
