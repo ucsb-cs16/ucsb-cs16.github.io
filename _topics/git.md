@@ -50,3 +50,14 @@ enterprise. UCSB licensed this software and set up a github server
 called github.ucsb.edu that is based on your CSIL account.
 
 We may use github.com for some assignments and github.ucsb.edu for others.
+
+<div data-role="collapsible" data-collapsed="false">
+  <h2>More on git/github</h2>
+  <ul>
+   {% for topic in site.topics %}
+       {% if topic.topic contains "git/github: " %} 
+           <li><a href="{{topic.url}}">{{ topic.topic }}</a>&mdash;{{topic.desc}}</li>
+       {% endif %}
+   {% endfor %}
+  </ul>
+</div>
