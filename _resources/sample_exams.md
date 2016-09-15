@@ -49,7 +49,7 @@ Ok, now the exams:
 
 | Quarter | Instructor| Midterm E01 | Midterm E02 | Final |
 |---------|-----------|-------------|-------------|-------|
-| F14     | Conrad    | [E01](http://www.cs.ucsb.edu/~pconrad/cs16/14F/exams/E01/) | [E02](http://www.cs.ucsb.edu/~pconrad/cs16/14F/exams/E02/) | [E03](http://www.cs.ucsb.edu/~pconrad/cs16/14F/exams/E03/) |
+| F14     | Conrad    | [E01](http://www.cs.ucsb.edu/~pconrad/cs16/14F/exams/E01/actualExam/) | [E02](http://www.cs.ucsb.edu/~pconrad/cs16/14F/exams/E02/) | [E03](http://www.cs.ucsb.edu/~pconrad/cs16/14F/exams/E03/) |
 | S15     | Conrad    | [E01](http://www.cs.ucsb.edu/~pconrad/cs16/15S/exams/E01/) | [E02](http://www.cs.ucsb.edu/~pconrad/cs16/15S/exams/E02/) | [E03](http://www.cs.ucsb.edu/~pconrad/cs16/15S/exams/E03/) |
 
 </div>
