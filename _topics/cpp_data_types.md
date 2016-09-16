@@ -41,54 +41,55 @@ The data types in this table are ones you absolutely SHOULD know, and
 even memorize, since they are needed all the time when writing code in
 C++.
 
-+--------------------+---------------------+--------------------+--------------------+
-| type of data       | C++ keyword (or     | examples           | textbook section   |
-|                    | syntax)             |                    |                    |
-+====================+=====================+====================+====================+
-| integers           | `int`               | 3, -42, 0          | briefly in 1.3\    |
-|                    |                     |                    | longer discussion  |
-|                    |                     |                    | in 2.3             |
-+--------------------+---------------------+--------------------+--------------------+
-| real numbers (i.e. | `double`            | 3.14159, -2.5, 4.0 | briefly in 2.1\    |
-| numbers with a     |                     |                    | longer discussion  |
-| decimal point that |                     |                    | in 2.3             |
-| may or may not be  |                     |                    |                    |
-| integers)          |                     |                    |                    |
-+--------------------+---------------------+--------------------+--------------------+
-| strings            | `string` or `char`  | "UCSB",            | quoted strings in  |
-|                    | `*` depending on    | "deadmau5", "4+4"  | 1.3, C++ string    |
-|                    | context             |                    | class briefly 2.3, |
-|                    |                     |                    | C-strings 8.1, C++ |
-|                    |                     |                    | strings class in   |
-|                    |                     |                    | detail 8.2         |
-+--------------------+---------------------+--------------------+--------------------+
-| characters (single | `char`              | 'a', '5', '+'      | intro 2.3          |
-| characters)        |                     |                    |                    |
-+--------------------+---------------------+--------------------+--------------------+
-| boolean            | `bool`              | `true`, `false`    | intro 2.3, more in |
-| (true/false)       |                     |                    | 2.4, converting to |
-|                    |                     |                    | int, 3.1           |
-+--------------------+---------------------+--------------------+--------------------+
-| arrays (groups of  | `int`               | Chapter 7          |
-| values of like     | `nums[5]={10,20,30` |                    |
-| type)              |    `,40,50};`       |                    |
-|                    | `string`            |                    |
-|                    | `names[5]={"UCLA",` |                    |
-|                    | `"UCSD","UCSB","Cal`|                    |
-|                    | `Poly","UCD"};`     |                    |
-+--------------------+---------------------+--------------------+--------------------+
-| structs (groups of | `struct` `Student`  | `Student` `p` `=`  | Section 10.1       |
-| values of          | `{`                 | `{` `1235456,`     |                    |
-| possibly unlike    |   `int` `perm;`     | `"Pat"` `};`       |                    |
-| type)              |   `string` `name;`  |                    |                    |
-|                    | `};`                |                    |                    |
-+--------------------+---------------------+--------------------+--------------------+
+| type of data       | C++ keyword (or syntax)| examples           | textbook section   |
+|--------------------|---------------------|--------------------|--------------------|
+| integers           | `int`               | 3, -42, 0          | briefly in 1.3; longer discussion in 2.3  |
+| real numbers       | `double`            | 3.14159, -2.5, 4.0 | briefly in 2.1; longer discussion in 2.3  |
+| strings | `string` or `char *` | "UCSB", "deadmau5", "4+4", "32" | quoted strings in  1.3; <br>C++ string class, briefly in 2.3<br> C-strings: 8.1;<br> C++ string class in detail: 8.2 |
+| single characters | `char` | 'a', '5', '+'      | intro 2.3          |
+| boolean (true/false) | `bool` |  `true`, `false`  | intro 2.3, more in  2.4, converting to int, 3.1  |
 
-My intention is to provide a fast-forward overview of these types in
-lecture, notes on the wiki, and in other course activities, often long
-before we get to the applicable sections in the textbook. That will
-enable us to write FAR more interesting programs than if, for example,
-we did NOTHING with arrays or structs until we got to chapters 7 or 10.
+You should also know about two additional data types:
+
+* arrays, i.e. groups of values of like type.  These are discussed in Chapter 7.
+* structs, groups of values of differing types.   These are discussed in Section 10.1
+
+## Arrays
+
+Arrays (Chapter 7) are different from Python lists in that every element on an array in C++ *must* be of *exactly* the same type.
+
+Examples: 
+```cpp
+
+int nums[5]={10,20,30,40,50};
+string names[5]={"UCLA","UCSD","UCSB","UCI","Cal Poly"}
+```
+
+## Structs
+
+Structs allow for elements of different types.  A struct definition defines a new type; you can then declare variables or arrays of that type.      Note that a struct definition must end in a semicolon (`;`) and this
+is one of the few times you need a semicolon after a closing brace (i.e. `};`).   
+
+A struct definition d
+
+```cpp
+
+struct Student {
+   int perm;
+   string name;
+};
+
+Student p = { 1234567, "Pat"};
+
+Student freshmen[2] = { { 1234567, "Pat"}, { 2345678, "Chris"} };
+
+```
+
+If CS16 instructors can provide a "fast-forward overview" of these types&mdash;perhaps long before students
+get to them in Chapters 7 or 10 of the textbook&mdash;it can enable students to write much more interesting programs.
+
+Being restricted to doing *nothing* with arrays or structs until after Chapter 7, or Chapter 10, respectively
+means the coding examples are likely to be FAR less interesting that if we can fast-forward that a bit.
 
 Less Commonly Used Types
 ========================
@@ -99,6 +100,8 @@ is here just as a handy reference. We will cover these if and only if
 and when they are needed for some specific programming project in this
 course. It is good for you to be aware of them, but unless you are told
 otherwise, you don't need to memorize these.
+
+TODO: FIX THIS TABLE...
 
   type of data                            C++ keyword (or syntax)                                                                                   examples                                                                                                                                                               textbook section
   --------------------------------------- --------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------
