@@ -1,0 +1,47 @@
+---
+topic: "jekyll"
+desc: "The software used to produce this very website"
+---
+
+The website you are now looking at is hosting on Github Pages.   Github Pages uses software called *Jekyll* to turn
+files written in Markdown, a simplified syntax for HTML, into static HTML.
+
+In order to understand how to maintain this site, it helps to have a bit of knowledge of each of the following:
+
+* The syntax of *Markdown*
+* The *Jekyll* static site generating software 
+* The *Liquid* templating language
+
+A bit of knowledge of plain old HTML, CSS, and JavaScript can be useful as well.
+
+The purpose of this page is NOT to be a complete reference to all of those things, but rather to accomplish two goals:
+
+1. Refer the reader to places where they can learn more about the technologies listed above
+2. Provide quick-and-dirty fixes to common issues that arise in practice with the course web pages for UCSB/UCSD courses
+    hosted on this technology.
+    
+# Quick Fixes
+
+## I want a link 
+
+
+What you type:
+
+```
+[UCSB CS Dept](https://www.cs.ucsb.edu)
+```
+
+What you get:
+
+[UCSB CS Dept](https://www.cs.ucsb.edu)
+
+## I want a link that opens in a new window
+
+```
+[UCSB CS Dept](https://www.cs.ucsb.edu){: target="_blank"}
+```
+
+What you get:
+
+[UCSB CS Dept](https://www.cs.ucsb.edu){: target="_blank"}
+
