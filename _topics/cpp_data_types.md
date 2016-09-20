@@ -59,6 +59,7 @@ You should also know about two additional data types:
 Arrays (Chapter 7) are different from Python lists in that every element on an array in C++ *must* be of *exactly* the same type.
 
 Examples: 
+
 ```cpp
 
 int nums[5]={10,20,30,40,50};
