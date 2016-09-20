@@ -104,14 +104,14 @@ otherwise, you don't need to memorize these.
 
 TODO: FIX THIS TABLE...
 
-  type of data                            C++ keyword (or syntax)                                                                                   examples                                                                                                                                                               textbook section
-  --------------------------------------- --------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------
-  smaller and larger integers             `short`, `short` `int`, `long`, `long` `int`,                                                             -32768, 32767, 1024L                                                                                                                                                   section 2.3
-  C++11 integer types of specific sizes   `int8_t`, `uint8_t`, `int16_t`, `uint16_t`, `int32_t`, `uint32_t`, `int64_t`, `uint64_t`, `long` `long`   (used for integers that have to have a specific number of bits, e.g. for network protocol packet headers, data file formats, low level hardware communication, etc.)   section 2.3 (new in Savitch 9th edition)
-  smaller and larger real numbers         `float` and `long` `double`                                                                               3.14159F, -4.0L                                                                                                                                                        section 2.3
-  enumerated types                        `enum`                                                                                                    `enum` `DayOfWeek` `=` `{` `SUN=0,` `MON=2,` `TUE=3,` `WED=4,` `THU=5,` `FRI=6,` `SAT=7` `};`                                                                          section 3.1
-  multi-dimensional arrays                `int` `a[2][2]` `=` `{` `{10,` `20},` `{30,` `40}` `};`                                                   section 7.1
-  vectors                                 `vector<int&>` `v;`                                                                                       `v.push_back(42);`                                                                                                                                                     section 8.3
+| type of data | C++ keyword (or syntax) |  examples | textbook section  |
+|-------------|-------------------------|-----------|-------------------|
+|smaller and<br>&nbsp;larger integers | `short`,<br> `short int`, <br>`long`,<br> `long int`<br> `long long` | -32768, 32767, 1024L | section 2.3 |
+|C++11 integer types<br>&nbsp;of specific sizes | `int8_t`, `uint8_t`,<br> `int16_t`, `uint16_t`,<br> `int32_t`, `uint32_t`,<br>`int64_t`, `uint64_t`  | (used for integers that have to have a specific number of bits, e.g. for network protocol packet headers, data file formats, low level hardware communication, etc.)  | section 2.3 (new in Savitch 9th edition) |
+| smaller and<br> larger real numbers |  `float` and<br> `long double` |  3.14159F, -4.0L |  section 2.3 |
+| enumerated types | `enum` |  `enum DayOfWeek = { SUN=0, MON=2, TUE=3, WED=4, THU=5, FRI=6, SAT=7 };` | section 3.1 |
+| multi-dimensional arrays | `int a[2][2]` | `int a[2][2] = { {10, 20}, {30, 40} };` | section 7.1 |
+| vectors | `vector<int&> v;` |  `v.push_back(42);` | section 8.3 |
 
 Note that "programmer-defined objects", also known as
 "programmer-defined classes", is a topic that is normally deferred to
