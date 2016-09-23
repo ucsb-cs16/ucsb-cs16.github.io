@@ -40,7 +40,24 @@ The way to handle this is that the TA needs to sign up for submit.cs first, usin
 
 Creating a lab from scratch is a longer process than I can document quickly, but here is some quick documentation for the case of cloning an existing lab.
 
+   1.  Click "Create New Project" as shown:
+       ![click_create_new_project.png](click_create_new_project.png)
+   1.  On lower half of screen: select which project to clone, give it a new name, and then click the button, as shown:
+       ![clone_a_project_from_existing.png](clone_a_project_from_existing.png)
+   1.  Click "Create New Project" as shown:
+       ![result_of_clone.png](result_of_clone.png)
 
 
 4. I want to know how grades get collected by the system and how my TAs or I can over-ride them.
-5. I want to know how to access the submitted .cpp files in case I/the TAs need to manually do the grading.
+
+Grades in submit.cs are the result of the test cases that are run.     Typically I don't override grades in submit.cs, but rather, if an override is needed, I do it in Gauchospace.  That invites the next question...
+
+5. How do you get the grades computed by submit.cs out of submit.cs, and into another system, such as Gauchospace?
+    I also want to know how to access the submitted .cpp files in case I/the TAs need to manually do the grading.
+
+On the page for an assignment, there is a button to download the CSV file, as shown below.   There is also a button
+to download a .zip file with all of the source code for all submissions.
+
+![submit_cs_download_grades_or_source_code.png](submit_cs_download_grades_or_source_code.png)
+
+Note that the submissions can also be browsed individually on the assignment page,
