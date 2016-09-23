@@ -41,11 +41,11 @@ The way to handle this is that the TA needs to sign up for submit.cs first, usin
 Creating a lab from scratch is a longer process than I can document quickly, but here is some quick documentation for the case of cloning an existing lab.
 
    1.  Click "Create New Project" as shown:
-       ![click_create_new_project.png](click_create_new_project.png)
+       ![click_create_new_project.png](click_create_new_project-50.png)
    1.  On lower half of screen: select which project to clone, give it a new name, and then click the button, as shown:
-       ![clone_a_project_from_existing.png](clone_a_project_from_existing.png)
+       ![clone_a_project_from_existing.png](clone_a_project_from_existing-50.png)
    1.  Click "Create New Project" as shown:
-       ![result_of_clone.png](result_of_clone.png)
+       ![result_of_clone.png](result_of_clone-50.png)
 
 
 4. I want to know how grades get collected by the system and how my TAs or I can over-ride them.
@@ -58,9 +58,9 @@ Grades in submit.cs are the result of the test cases that are run.     Typically
 On the page for an assignment, there is a button to download the CSV file, as shown below.   There is also a button
 to download a .zip file with all of the source code for all submissions.
 
-![submit_cs_download_grades_or_source_code.png](submit_cs_download_grades_or_source_code.png)
+![submit_cs_download_grades_or_source_code.png](submit_cs_download_grades_or_source_code-50.png)
 
 Note that the submissions can also be browsed individually on the assignment page after navigating to a particular
 student's submission, as shown here:
 
-![click_to_see_source_code_contents.png](click_to_see_source_code_contents.png)
+![click_to_see_source_code_contents.png](click_to_see_source_code_contents-50.png)
