@@ -37,5 +37,10 @@ The way to handle this is that the TA needs to sign up for submit.cs first, usin
 
 
 3. I'd like to see how to create, from both scratch and an older existing lab, a new lab.
+
+Creating a lab from scratch is a longer process than I can document quickly, but here is some quick documentation for the case of cloning an existing lab.
+
+
+
 4. I want to know how grades get collected by the system and how my TAs or I can over-ride them.
 5. I want to know how to access the submitted .cpp files in case I/the TAs need to manually do the grading.
