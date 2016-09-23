@@ -45,3 +45,13 @@ What you get:
 
 [UCSB CS Dept](https://www.cs.ucsb.edu){: target="_blank"}
 
+# Running Jekyll Locally
+
+## Mac OS
+
+Get the software known as rvm for your mac.   Installing that is a bit of small chore, because you first must...
+
+1. Install gpg with `brew install gpg`
+2. Install curl with `brew install curl`
+3. Install rvm with `\curl -sSL https://get.rvm.io | bash -s stable --ruby`
+
