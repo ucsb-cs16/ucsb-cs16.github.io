@@ -60,4 +60,7 @@ to download a .zip file with all of the source code for all submissions.
 
 ![submit_cs_download_grades_or_source_code.png](submit_cs_download_grades_or_source_code.png)
 
-Note that the submissions can also be browsed individually on the assignment page,
+Note that the submissions can also be browsed individually on the assignment page after navigating to a particular
+student's submission, as shown here:
+
+![click_to_see_source_code_contents.png](click_to_see_source_code_contents.png)
