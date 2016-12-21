@@ -6,10 +6,16 @@ desc: "Things to avoid in your code"
 Definition
 ==========
 
-An anti-pattern is something that lots of people write often in their
-code, but that is BAD and should NOT BE DONE.
+An anti-pattern is something that:
 
-Sometimes the code might even "work" in the sense that it "computes the
+* people frequently write in their code (that's the <em>pattern</em> part)
+* but that is BAD and should NOT BE DONE (that's the <em>anti</em> part).
+
+(The term <em>anti-pattern</em> does have a more formal definition in Computer Science and some history; for purposes of CS16, we'll focus on the informal definition above.)
+
+This page lists several common anti-patterns often seen in code written by novice programmers (e.g. code submitted by CS16 students in programming assignments, or answers to exam questions.)  In fact, the first version of this page was compiled exclusively from actual answers submitted by students to CS16 exam and homework questions.
+
+In each of the examples below, sometimes the code might even "work" in the sense that it "computes the
 correct result", but it is hard to read for other programmers, or
 difficult to maintain, or might lead to later bugs or errors. Other
 times it is just wasteful, in that it takes up space in the code for no
