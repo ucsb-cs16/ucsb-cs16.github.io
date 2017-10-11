@@ -1,9 +1,9 @@
 ---
-topic: "C++ pointers"
-desc: "pointers are variables that store addresses"
+topic: "C++ pointers, initialization"
+desc: "What is the initial value of a pointer variable?"
 ---
 
-This code declares p as a pointer to an int:
+This code declares p as a pointer to an int as a local variable:
 
 ```
 #include <iostream>
