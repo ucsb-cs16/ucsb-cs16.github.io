@@ -80,7 +80,7 @@ To enter code:
 
 Bonus tip:
 * The "old school" way of moving around in vim command mode is to use the letters `h`, `j`, `k`, and `l`.
-* These four letters are the equivalent of ←, ↓, ↑, →
+* `h`, `j`, `k`, and `l` are the equivalent of ←, ↓, ↑, →, respectively.
 
 # 3. save and quit
 
