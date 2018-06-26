@@ -14,11 +14,11 @@ desc: "An overview of programs for editing C++ code"
 
 # Our advice
 
-* Learn at least "survival vim"
+* Learn at least "survival vim": 
    * You'll need that skill for working with cloud systems, backend systems, in situations
      where you only have a command line, and not a graphical environment.
    * You don't necessarily need to be able to do sophisticated editing, but you should be able
-     to do these basic eight functions: quit without saving, enter code, save, copy/paste, 
+     to do these [eight basic vim functions](/topics/vim_basic_eight/): quit without saving, enter code, save, copy/paste, 
      search/replace, show line numbers, goto a line number, save as.
 * Learn either atom or vscode
    * These provide helpful editing capabilities that are sensitive to your particular
