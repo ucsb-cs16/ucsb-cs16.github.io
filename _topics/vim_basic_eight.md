@@ -160,9 +160,19 @@ To search/replace foo to bar one occurance at a time:
    ```
 * A column of sequential line numbers will then appear at the left side of the screen. Each line number references the text located directly to the right.
 
-# 7. goto a line number
+## 7. goto a line number
 
-TBD
+(From [this article](https://kb.iu.edu/d/adxw))
+
+* Press the Esc key if you are currently in insert or append mode.
+* Press : (the colon). The cursor should reappear at the lower left corner of the screen next to a : prompt.
+* Enter the line number you want to go to and press return
+* You'll jump to that line number
+
+Bonus tips:
+
+* Use `:1` to get to top of a file
+* Use `:$` to get to the bottom of a file (`$` in place of a line number means "the last line in the file")
 
 # 8. save as
 
