@@ -103,7 +103,47 @@ From [this Stack Overflow answer](https://stackoverflow.com/questions/13447066/v
 
 # 5. search/replace 
 
-TBD
+To repeatedly search for a string:
+
+* Make sure you in edit mode (use "escape" to get there if you are not)
+* Press `/` and the cursor jumps to bottom of screen
+* Type what you want to search for and hit enter.
+* You will jump to the next occurance
+* To search for the same thing again, just press `/` and enter again (repeat as often as needed)
+
+To search/replace foo to bar in the entire file *all at once*
+
+* Make sure you are in edit mode (use "escape" to get there if you are not)
+* Use `:` to get to the command line
+* Type `%s/foo/bar/g`  
+   * `%` means "on every line in the whole document"
+   * `s` means "substitute"
+   * `/foo/bar/` means change `foo` to `bar`
+   * `g` means "globally", i.e. every occurence on that line
+
+To search/replace foo to bar one occurance at a time:
+
+* Make sure you are in edit mode (use "escape" to get there if you are not)
+* Use `:` to get to the command line
+* Type `%s/foo/bar/gc`
+   * Explanation is the same as above, except that we add `c` which means "confirm each change"
+* Your cursor jumps to first occurance of `foo` and you'll see this: 
+   ```
+   replace with bar (y/n/a/q/l/^E/^Y)?`
+   ```
+
+   Here what each of those does:
+   
+   * `y` to substitute this match
+   * `l` to substitute this match and then quit ("last")
+   * `n` to skip this match
+   * `<Esc>`   to quit substituting
+   * `a`     to substitute this and all remaining matches
+   * `q`     to quit substituting 
+   * CTRL-E  to scroll the screen up 
+   * CTRL-Y  to scroll the screen down 
+
+
 
 # 6. show line numbers
 
