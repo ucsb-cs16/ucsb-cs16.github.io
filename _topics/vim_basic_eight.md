@@ -27,6 +27,8 @@ You gotta learn these three things first.
 The "escape" key, sometimes labelled "esc" is at the upper left hand corner of your keyboard.  You are gonna need that a lot.
 Find it now.  Ok, good.
 
+Bonus tip: "CTRL-&#91;" can be used instead of the escape key if that's more comfortable for your fingers.
+
 ## b. "insert mode" vs. "command mode"
 
 `vim` is always in one of two modes:
