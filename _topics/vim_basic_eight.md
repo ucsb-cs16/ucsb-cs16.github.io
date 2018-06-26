@@ -123,6 +123,8 @@ To search/replace foo to bar in the entire file *all at once*
 
 To search/replace foo to bar one occurance at a time:
 
+(from [this Stack Overflow article](https://stackoverflow.com/questions/505848/interactive-search-replace-regex-in-vim) )
+
 * Make sure you are in edit mode (use "escape" to get there if you are not)
 * Use `:` to get to the command line
 * Type `%s/foo/bar/gc`
@@ -147,7 +149,16 @@ To search/replace foo to bar one occurance at a time:
 
 # 6. show line numbers
 
-TBD
+(From [this article](https://kb.iu.edu/d/afcx))
+
+
+* Press the Esc key if you are currently in insert or append mode.
+* Press : (the colon). The cursor should reappear at the lower left corner of the screen next to a : prompt.
+* Enter the following command:
+   ```
+   set number
+   ```
+* A column of sequential line numbers will then appear at the left side of the screen. Each line number references the text located directly to the right.
 
 # 7. goto a line number
 
