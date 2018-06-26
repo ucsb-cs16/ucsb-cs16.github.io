@@ -89,9 +89,17 @@ To quit *without saving* in vim:
 * Type `:` to put yourself in commmand line mode (cursor jumps to bottom of screen)
 * Type `wq` and hit enter.   The `w` means "write" (as in "write to disk", i.e. "save")  and `q` means "quit".
 
-# 4. copy/paste 
+# 4. copy/paste or cut/paste
 
-TBD
+From [this Stack Overflow answer](https://stackoverflow.com/questions/13447066/vi-editor-copy-a-block-not-usual-action)
+
+* Make sure you are in edit mode (use "escape" if you aren't)
+* Position the cursor where you want to begin cutting.
+* Press `v` to select characters (or uppercase `V` to select whole lines).
+* Move the cursor to the end of what you want to cut.
+* Press `y` to copy (or `d` to cut).
+* Move to where you would like to paste.
+* Press `P` to paste before the cursor, or `p` to paste after.
 
 # 5. search/replace 
 
