@@ -18,8 +18,8 @@ desc: "An overview of programs for editing C++ code"
    * You'll need that skill for working with cloud systems, backend systems, in situations
      where you only have a command line, and not a graphical environment.
    * You don't necessarily need to be able to do sophisticated editing, but you should be able
-     to do the basics: entering code, copy/paste, search/replace, show line numbers,
-     save as, and include code from another file.
+     to do these basic eight functions: quit without saving, enter code, save, copy/paste, 
+     search/replace, show line numbers, goto a line number, save as.
 * Learn either atom or vscode
    * These provide helpful editing capabilities that are sensitive to your particular
      programming language including auto-completion, early detection of syntax errors,
