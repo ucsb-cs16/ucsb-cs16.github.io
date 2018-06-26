@@ -176,5 +176,13 @@ Bonus tips:
 
 # 8. save as
 
-TBD
+* Press the Esc key if you are currently in insert or append mode.
+* Press : (the colon). The cursor should reappear at the lower left corner of the screen next to a : prompt.
+* Enter `w foo.cpp` to save the file under the name `foo.cpp`
+
+Bonus tip:
+
+* The name given can be a full path, e.g.  `:w ~/cs16/lab04/foo.cpp`
+
+
 
