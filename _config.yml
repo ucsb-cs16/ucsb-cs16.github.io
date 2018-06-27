@@ -18,6 +18,10 @@ exclude: ['vendor', 'setup.sh', 'jekyll.sh']
 timezone: America/Los_Angeles
 
 collections:
+  info:
+    output: true
+    permalink: /info/:path/
+
   topics:
     output: true
     permalink: /topics/:path/
@@ -41,13 +45,16 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
-
   - scope:
       path: ""
       type: topics
     values:
       layout: topic
-
+  - scope:
+      path: ""
+      type: info
+    values:
+      layout: topic
   - scope:
       path: ""
       type: resources
