@@ -1,20 +1,21 @@
 <div data-role="header" class="header">
-  <nav data-role="navbar" data-grid-"d">
+
+ <nav data-role="navbar" data-grid-"d">
   <ul>
-    <li><a href="/">UCSB {{site.course}} </a></li>
-    <li><a href="https://ucsb-cs16-f16.github.io" class="ui-btn-active">{{site.course}} F16</a></li>
-    <li><a href="https://ucsb-cs16-wi17.github.io"
-        class="ui-btn-active">{{site.course}} W17</a></li>
-    <li><a href="https://ucsb-cs16-w18.github.io" class="ui-btn-active">{{site.course}} W18 Mirza</a></li>
-    <li><a href="https://ucsb-cs16-s17.github.io" class="ui-btn-active">{{site.course}} S17 Matni</a></li>
-    <li><a href="https://ucsb-cs16-f17.github.io" class="ui-btn-active">{{site.course}} F17 Matni</a></li>
-     <li><a href="https://submit.cs.ucsb.edu">submit.cs</a></li>
+    <li><a href="/">UCSB {{site.course}}</a></li>
+    <li><a href="{{site.this_qtr_class_url}}" class="ui-btn-active">{{site.course}} {{site.qtr}}</a></li>
+    <li><a href="{{site.gradescope_class_url}}">Gradescope</a></li>
+    <li><a href="{{site.this_qtr_class_url}}/info/office_hours/">Office Hours</a></li>
   </ul>
  </nav>
  <nav data-role="navbar" data-grid-"d">
   <ul>
-   <li><a href="https://gauchospace.ucsb.edu/courses/course/view.php?id=12634">Gauchospace</a></li>
-   <li><a href="#">Piazza</a></li>
+   <li><a href="{{site.gauchospace_course_page}}">Gauchospace</a></li>
+   <li><a href="{{site.piazza_url}}">Piazza</a></li>
+   <li><a href="{{site.github_url}}">M18 github</a></li>
   </ul>
  </nav>
+
+
+
 </div>

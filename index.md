@@ -18,6 +18,14 @@ This site is maintained in this github repo: <https://github.com/ucsb-cs16/ucsb-
 * [Older materials from Conrad's 16wiki](https://foo.cs.ucsb.edu/16wiki) site.
 * [Older materials from Conrad's personal website](https://www.cs.ucsb.edu/~pconrad/cs16)
 
+# Previous Offerings of CS16
+
+* [S18 Mirza](https://ucsb-cs16-s18.github.io)
+* [W18 Mirza](https://ucsb-cs16-w18.github.io)
+* [S17 Matni](https://ucsb-cs16-s17.github.io)
+* [S17 Mirza](https://ucsb-cs16-sp17.github.io)
+* [W17 Mirza](https://ucsb-cs16-wi17.github.io)
+* [F17 Matni](https://ucsb-cs16-f17.github.io)
 
 </div><!-- about -->
 
