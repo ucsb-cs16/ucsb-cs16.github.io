@@ -86,7 +86,7 @@ Bonus tip:
 
 To save changes and quit:
 
-To quit *without saving* in vim:
+To quit *with saving* changes in vim:
 * Type the "escape" key to make sure you are in "edit mode"
 * Type `:` to put yourself at the commmand line (cursor jumps to bottom of screen)
 * Type `wq` and hit enter.   The `w` means "write" (as in "write to disk", i.e. "save")  and `q` means "quit".
