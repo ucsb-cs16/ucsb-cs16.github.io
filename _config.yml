@@ -9,7 +9,7 @@ qtr: "M18"
 instances:
   -
     instructor: Mirza
-    site_url: https://ucsb-cs16-f18-mirza.github.io
+    site_url: "https://ucsb-cs16-f18-mirza.github.io"
     github_org:
        name: ucsb-cs16-f18-mirza
        url: https://github.com/ucsb-cs16-f18-mirza
@@ -17,6 +17,7 @@ instances:
     gradescope_url: https://www.gradescope.com/courses/25325       
   -
     instructor: Nichols
+    site_url: "https://ucsb-cs16-f18-nichols.github.io"    
     github_org:
        name: ucsb-cs16-f18-nichols
        url: https://github.com/ucsb-cs16-f18-nichols
