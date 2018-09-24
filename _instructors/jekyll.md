@@ -20,6 +20,10 @@ The purpose of this page is NOT to be a complete reference to all of those thing
 2. Provide quick-and-dirty fixes to common issues that arise in practice with the course web pages for UCSB/UCSD courses
     hosted on this technology.
     
+# A more complete reference
+
+See: <https://ucsb-cs-course-repos.github.io>
+    
 # Quick Fixes
 
 ## I want a link 
