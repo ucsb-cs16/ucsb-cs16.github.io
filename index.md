@@ -20,6 +20,7 @@ This site is maintained in this github repo: <https://github.com/ucsb-cs16/ucsb-
 
 # Previous Offerings of CS16
 
+* [M18 R.K. Wang](https://ucsb-cs16-m18.github.io/)
 * [S18 Mirza](https://ucsb-cs16-s18.github.io)
 * [W18 Mirza](https://ucsb-cs16-w18.github.io)
 * [S17 Matni](https://ucsb-cs16-s17.github.io)
