@@ -1,21 +1,16 @@
 <div data-role="header" class="header">
 
- <nav data-role="navbar" data-grid-"d">
+ <nav data-role="navbar">
   <ul>
     <li><a href="/">UCSB {{site.course}}</a></li>
-    <li><a href="{{site.this_qtr_class_url}}" class="ui-btn-active">{{site.course}} {{site.qtr}}</a></li>
-    <li><a href="{{site.gradescope_class_url}}">Gradescope</a></li>
-    <li><a href="{{site.this_qtr_class_url}}/info/office_hours/">Office Hours</a></li>
+     <li data-theme="b"><a data-theme="b"  href="{{site.instructors[0].site_url}}">{{site.course}} {{site.qtr}} {{site.instances[0].instructor}}</a></li>    
   </ul>
  </nav>
- <nav data-role="navbar" data-grid-"d">
+ <nav data-role="navbar">
   <ul>
-   <li><a href="{{site.gauchospace_course_page}}">Gauchospace</a></li>
-   <li><a href="{{site.piazza_url}}">Piazza</a></li>
-   <li><a href="{{site.github_qtr_url}}">M18 github</a></li>
+   <li><a href="https://gauchospace.ucsb.edu">Gauchospace</a></li>
+   <li data-theme="c"><a data-theme="c" href="{{site.instructors[1].site_url}}">{{site.course}} {{site.qtr}} {{site.instances[1].instructor}}</a></li>
   </ul>
  </nav>
-
-
 
 </div>

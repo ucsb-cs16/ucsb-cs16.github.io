@@ -34,4 +34,8 @@ table * td {
 .indent {
 	margin-left: 3em;	
 }
-}
+
+
+
+li.i0 { background-color: #f4f1d4; color: black; }
+li.i1 { background-color: #d80e0a; color: white; }

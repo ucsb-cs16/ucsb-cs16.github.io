@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
-ruby "2.1.7"
+ruby "2.5.1"
 gem 'github-pages'
