@@ -1,3 +1,10 @@
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
+
+
 title: "UCSB CS16"
 course: "CS16"
 github_url: https://github.com/ucsb-cs16/ucsb-cs16.github.io
@@ -68,19 +75,19 @@ defaults:
       path: ""
       type: topics
     values:
-      layout: topic
+      layout: default
   - scope:
       path: ""
       type: info
     values:
-      layout: topic
+      layout: default
   - scope:
       path: ""
       type: resources
     values:
-      layout: topic
+      layout: default
   - scope:
       path: ""
       type: instructor
     values:
-      layout: topic
+      layout: default
