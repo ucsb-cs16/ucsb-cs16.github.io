@@ -4,6 +4,8 @@ plugins:
 
 remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
 
+suppress_footer: true
+
 
 title: "UCSB CS16"
 course: "CS16"
