@@ -65,6 +65,24 @@ $ scp -r cgaucho@csil-17.cs.ucsb.edu:temp/folder2 .
 
 *Note:* If you want to copy a file that already exists in your destination folder, then `scp` will replace it!
 
+# For Windows Users
+
+For Windows users, most of the scp commands will be similar, however, your paths would originate from your default drive (usually the `C` drive), so you need to change your path to where you want to download. If you installed Windows's SSH client, you could do `scp` and `ssh` commands in the Command Prompt (CMD)
+
+To copy from CSIL to your (computer's `Downloads` folder)
+
+```
+C:\Users\cgaucho> scp cgaucho@csil-17.cs.ucsb.edu:temp/text2.txt C:\Users\cgaucho\Downloads\
+```
+
+To copy from your (computer's `Downloads` folder) to CSIL
+
+```
+C:\Users\cgaucho> scp C:Users\cgaucho\Downloads\text2.txt cgaucho@csil-17.cs.ucsb.edu:temp/
+```
+
+If you want to copy a folder, you would use the `-r` flag, like the examples above for UNIX systems. Just remember to replace your paths with the corresponding path in Windows.
+
 # References
 * [Git for Windows](https://git-scm.com/download/win)
 * [scp quick guide](https://haydenjames.io/linux-securely-copy-files-using-scp/)
