@@ -4,32 +4,15 @@ desc: "eight things you need to know how to do for your survival"
 indent: true
 ---
 
-Here are eight things you should know how to do in `vim` to be able to "survive" with `vim` as your text editor if you 
-absolutely have to.
+Here are some shortcuts in Vim that are not essential to the normal operation of Vim, but will significantly increase productivity, and possibly retain some sanity.
 
-1. quit without saving
-2. enter code
-3. save
-4. copy/paste 
-5. search/replace 
-6. show line numbers
-7. goto a line number
-8. save as
+# Copy and paste
 
-Each of these is explained below.    But first, step "0" is to learn three basic vim concepts: escape, modes, and the `vim` command line.
+## a. The 'yy' command
 
-# 0. Escape, modes, and the `vim` command line
 
-You gotta learn these three things first.
 
-## a. The "esc" key ("escape")
-
-The "escape" key, sometimes labelled "esc" is at the upper left hand corner of your keyboard.  You are gonna need that a lot.
-Find it now.  Ok, good.
-
-Bonus tip: "CTRL-&#91;" can be used instead of the escape key if that's more comfortable for your fingers.
-
-## b. "insert mode" vs. "command mode"
+## b. Visual-block mode
 
 `vim` is always in one of two modes:
 
@@ -47,7 +30,7 @@ Here's the basic way of moving between the modes:
 
 There are a few others ways to move between the modes, but that's enough for "survival vim".
 
-## c. The command line (`:`)
+## c. Visual-line mode
 
 There are some things you do in `vim` at the command line.  
 
