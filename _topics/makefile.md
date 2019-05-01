@@ -1,3 +1,8 @@
+---
+topic: "makefile"
+desc: "explanation of the Makefile elements"
+---
+
 # Makefile Tutorial 
 > by Lawton Nichols and Jacqueline Mai
 >
