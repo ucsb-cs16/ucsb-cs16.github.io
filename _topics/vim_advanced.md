@@ -44,5 +44,11 @@ You can use the `^` command to place the cursor at the start of the text of a li
 `0` and `gm` work similarly, but they place the cursor at the physical start of the line instead of the start of the text, respectively.
 
 ## c. The `G` and `gg` commands
+`G` goes to the bottom of the file, while `gg` goes back to the top (this is while in command mode).
 
+# The `u` commands
+These commands can revert edits.
+
+To undo the last change, use `u`.
+To repeat the last change, use `.`
 
