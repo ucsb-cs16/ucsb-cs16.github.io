@@ -100,3 +100,27 @@ If you want to run graphical applications, instead of using puTTY, you can use o
 
 
 You can also install SSH clients on your tablet to connect remotely, just like you would from a computer.
+
+### Step 2d: Connecting to CSIL via SSH on Windows through the Command Prompt (CMD)
+
+If you don't want to install any 3rd party applications, Windows has it's built-in SSH client, and you can connect through CSIL directly through SSH from the CMD.
+
+To install the SSH Client, go to your `Windows Settings`
+
+Then, go to `Apps`
+
+Under `Apps`, go to `Manage optional features` under the page `Apps & features`
+
+From there, click `Add a feature`
+
+Scroll all the way down, find `OpenSSH Client`, install it
+
+If `OpenSSH Client` isn't under `Add a feature`, go back, scroll all the way down and check if your Windows already has the `OpenSSH Client`
+
+If Windows prompts a restart, restart your computer
+
+Now that you have your Windows SSH client installed, open your `Command Prompt`
+
+Follow the command for MacOS from above, you should be prompted with the same messages, prompts to enter your COE password. Once successful, you should now be connected to CSIL through SSH, under Windows' CMD
+
+Note: You can now also use `scp` to copy files between your laptop and CSIL
