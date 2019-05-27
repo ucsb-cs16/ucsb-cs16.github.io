@@ -6,9 +6,7 @@ indent: true
 
 Here are some Vim commands that are not essential but useful in increasing your productivity (and possibly maintaining your sanity).
 
-# 0. Copy and paste
-
-You gotta learn these three things first.
+# 0. Short commands
 
 ## a. The 'yy' command
 
@@ -18,14 +16,16 @@ You gotta learn these three things first.
 ## c. Visual-line mode
 
 
-## 1. The `w` and `v` command
+## d. The `w` and `b` command
+To go to start of the next word (not the next occurance of the word, but jump to the next word in the line), use `w`. You can use the `b` command to go backwards.
 
+## e. The `v` command
+This starts `visual` mode, which allows highlighting (and eventually copy-pasting). `Shift+v` enters `visual line` mode, which you highlight multiple lines, while `ctrl+v` enters `visual block` mode, which you highlight multiple columns.
 
-
-# 2. The `r` command
+## f. The `r` command
 While you're in the command mode, you can replace any letter you have highlighted over the cursor by pressing `r` and the letter you want to be replaced with.
 
-# 3. The `%` command
+## g. The `%` command
 Sometimes you may want to transition between brackets. You can do the `%` command, to put your cursor rapidly between the left and right bracket. This will work for `{}`, `[]`, and `()`.
 
 # 4. Deleting lines/cut and paste
