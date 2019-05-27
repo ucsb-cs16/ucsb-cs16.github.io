@@ -23,9 +23,10 @@ You gotta learn these three things first.
 
 
 # 2. The 'r' command
+While you're in the command mode, you can replace any letter you have highlighted over the cursor by pressing 'r' and the letter you want to be replaced with.
 
 # 3. The '%' command
-
+Sometimes you may want to transition between brackets. You can do the '%' command, to put your cursor rapidly between the left and right bracket. This will work for '{}', '[]', and '()'.
 
 # 4. Deleting lines/cut and paste
 
@@ -37,7 +38,7 @@ You gotta learn these three things first.
 # 6. show line numbers
 
 
-## 7. goto a line number
+# 7. goto a line number
 
 
 # 8. save as
