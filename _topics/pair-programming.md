@@ -1,7 +1,6 @@
 ---
 topic: "Pair Programming Guidelines"
 desc: "The guidelines for successful pair programming"
-indent: true
 ---
 
 # Pair Programming Guidelines
