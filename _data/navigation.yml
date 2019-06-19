@@ -26,57 +26,49 @@ main_dropdown:
      - title: Resources
        url: /resources_list/
 
-offerings:
-   title: W19
-   url: /	
-   baseurl: /w19
+offering_menus:
+ -
+   term: M19
+   baseurl: /m19-nichols
    items:
-      - title: W19
-        url: /
-        baseurl: /w19
-
-offering_links:
-  - title: Hwk
-    url: /hwk_list/
-    description: "Homework Assignments"
-  - title: PA
-    url: /pa_list/
-    description: "Programming Assignments"
-  - title: Lab
-    url: /lab_list/
-    description: "Lab Assignments"
-  - title: Exam
-    url: /exam_list/
-    description: "Exams"
-  - title: Cal
-    url: /info/calendar/
-    description: "Assignment Calendar"
-  - title: More
-    dropdown:
-       - title: Syllabus
-         url: /info/syllabus/
-         description: "Syllabus"    
-       - title: Info Pages
-         url: /info_list/
-         description: "List of General Information Pages"
-       - title: Office Hours	
-         url: /info/office_hours/
-       - title: Staff
-         url: /staff_list/
-  - title: Links
-    dropdown:	 
-       - title: Gauchospace
-         url: https://gauchospace.ucsb.edu
-         description: "Overall Grade Information"
-       - title: GradeScope
-         url: https://gradescope.com
-         description: "HW and Lab Grades"
-       - title: Piazza
-         url: https://piazza.com
-         description: "Q&A Forum"
-  - title: Github
-    dropdown:
-       - title: ucsb-cs16-w19
-         url: https://github.com/ucsb-cs16-w19
-
-
+     - title: Homework
+       url: /hwk/
+       description: "Homework Assignments"
+     - title: Lab
+       url: /lab/
+       description: "Lab Assignments"
+     - title: Lectures
+       url: /lectures/
+       description: "Lecture slides and notes"
+     - title: Exam
+       url: /exams/
+       description: "Exams"
+     - title: Calendar
+       url: /info/calendar/
+       description: "Assignment Calendar"
+     - title: Info
+       dropdown:
+         - title: Syllabus
+           url: /info/syllabus/
+           description: "University and course policies"    
+         - title: Open Lab/Office Hours
+           url: /info/staff/
+           description: "Staff information + Office Hours / Open Lab Hours"
+         - title: Other Info Links
+           url: /info
+           description: "Other course information"
+     - title: Links
+       dropdown:	 
+         - title: Gauchospace
+           url: https://gauchospace.ucsb.edu
+           description: "Overall Grade Information"
+         - title: GradeScope
+           url: https://gradescope.com
+           description: "HW and Lab Grades"
+         - title: Piazza
+           url: https://piazza.com
+           description: "Q&A Forum"
+     - title: Github
+       dropdown:
+         - title: ucsb-cs16-m19
+           url: https://github.com/ucsb-cs16-m19
