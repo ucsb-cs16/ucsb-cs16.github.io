@@ -28,8 +28,8 @@ main_dropdown:
 
 offering_menus:
  -
-   term: M19
-   baseurl: /m19-nichols
+   term: F19
+   baseurl: /f19
    items:
      - title: Homework
        url: /hwk/
@@ -70,5 +70,5 @@ offering_menus:
            description: "Q&A Forum"
      - title: Github
        dropdown:
-         - title: ucsb-cs16-m19
-           url: https://github.com/ucsb-cs16-m19
+         - title: ucsb-cs16-mirza
+           url: https://github.com/ucsb-cs16-mirza
