@@ -14,3 +14,4 @@ These commands will be entered into your `~/.vimrc` file.
 
 * Adding numbers: `set nu`
 * Adding syntax highlighting: `syntax on`
+* Enabling mouse navigation: `:set mouse=a`
