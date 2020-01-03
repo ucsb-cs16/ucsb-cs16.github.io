@@ -28,8 +28,8 @@ main_dropdown:
 
 offering_menus:
  -
-   term: F19
-   baseurl: /f19
+   term: W20
+   baseurl: /w20
    items:
      - title: Homework
        url: /hwk/
