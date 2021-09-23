@@ -22,9 +22,9 @@ main_dropdown:
    title: Resources
    items:
      - title: Topics
-       url: /topic_list/
+       url: /topics/
      - title: Resources
-       url: /resources_list/
+       url: /resources/
 
 offering_menus:
   -
