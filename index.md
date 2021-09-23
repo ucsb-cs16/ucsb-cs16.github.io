@@ -31,16 +31,6 @@ This site is maintained in this github repo: <https://github.com/ucsb-cs16/ucsb-
 </div><!-- about -->
 
 
-<div id="textbooks" data-role="collapsible" data-collapsed="false">
-  <h2>Textbooks</h2>
-    <ul>
-      {% assign textbooks = site.textbooks | sort: 'custom_sort_order' %}
-      {% for textbook in textbooks %}
-         <li {% if topic.indent %} class="indent" {% endif %}><a href="{{textbook.url}}">{{ textbook.title }}</a>&mdash;{{textbook.desc}}</li>
-      {% endfor %}
-    </ul>
-</div>
-
 <div id="topics" data-role="collapsible" data-collapsed="false">
   <h2>Topics</h2>
   <ul>
