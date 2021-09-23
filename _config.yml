@@ -12,25 +12,25 @@ github_url: https://github.com/ucsb-cs16/ucsb-cs16.github.io
 
 # Change this every quarter!
 
-qtr: "F18"
+# qtr: "F18"
 
-instances:
-  -
-    instructor: Mirza
-    site_url: "https://ucsb-cs16-f18-mirza.github.io"
-    github_org:
-       name: ucsb-cs16-f18-mirza
-       url: https://github.com/ucsb-cs16-f18-mirza
-    piazza_url:  https://piazza.com/ucsb/fall2018/cs16nichols/home
-    gradescope_url: https://www.gradescope.com/courses/25325       
-  -
-    instructor: Nichols
-    site_url: "https://ucsb-cs16-f18-nichols.github.io"    
-    github_org:
-       name: ucsb-cs16-f18-nichols
-       url: https://github.com/ucsb-cs16-f18-nichols
-    piazza_url:  https://piazza.com/ucsb/fall2018/cs16nichols/home
-    gradescope_url: https://www.gradescope.com/courses/25325
+# instances:
+#   -
+#     instructor: Mirza
+#     site_url: "https://ucsb-cs16-f18-mirza.github.io"
+#     github_org:
+#        name: ucsb-cs16-f18-mirza
+#        url: https://github.com/ucsb-cs16-f18-mirza
+#     piazza_url:  https://piazza.com/ucsb/fall2018/cs16nichols/home
+#     gradescope_url: https://www.gradescope.com/courses/25325       
+#   -
+#     instructor: Nichols
+#     site_url: "https://ucsb-cs16-f18-nichols.github.io"    
+#     github_org:
+#        name: ucsb-cs16-f18-nichols
+#        url: https://github.com/ucsb-cs16-f18-nichols
+#     piazza_url:  https://piazza.com/ucsb/fall2018/cs16nichols/home
+#     gradescope_url: https://www.gradescope.com/courses/25325
 
 
 # Other settings
