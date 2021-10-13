@@ -121,5 +121,5 @@ offering_menus:
             description: "Q&A Forum"
       - title: Github
         dropdown:
-          - title: ucsb-cs16-mirza
-            url: https://github.com/ucsb-cs16-mirza
+          - title: ucsb-cs16-f21
+            url: https://github.com/ucsb-cs16-f21
