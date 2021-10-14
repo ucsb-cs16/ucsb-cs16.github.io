@@ -15,7 +15,7 @@ The following commands should be performed on your local machine, **not** on CSI
 	```
 2. Create the alias by adding the following line in `.bash_profile` :
 	```
-	alias csil='ssh username@csil.cs.ucsb.edu
+	alias csil='ssh username@csil.cs.ucsb.edu'
 	```
 	>Note: Do not add spaces before or after the `=` or the alias may not work.
 	
