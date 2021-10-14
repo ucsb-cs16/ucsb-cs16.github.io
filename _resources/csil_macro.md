@@ -9,7 +9,7 @@ The following commands should be performed on your local machine, **not** on CSI
 [username@csilvm-08 ~]$
 ```
 
-1. In your root directory, open and edit `.bash_profile`. This file may or may not already exist in your root directory (to check use `ls -a`). 
+1. In the root directory, open and edit `.bash_profile`. This file may or may not already exist (to check use `ls -a`). 
 	```
 	cd && vim .bash_profile
 	```
