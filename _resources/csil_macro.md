@@ -60,7 +60,7 @@ In the following section we will refer to your own machine as your **local** mac
 3. SSH into CSIL (you can do this just by typing `csil` if you did the steps in the previous section). 
 4. On the remote machine, navigate into the `.ssh` file and edit the `authorized_keys` file. This file may or may not already exist. Paste the copied public key from step 2 into the `authorized_keys` file. 
 
-	Doing `cat authorized_keys` should print out the following:
+	Doing `cat authorized_keys` should print the same key in your local `id_rsa.pub`:
 	```
 	ssh-rsa
 	AAAAB3NzaC1yc2EAAAADAQABAAABAQDYySoh7b1uGpI7saLozpgXz184YYgC9k22zLH8TqKiSLAcNCO5hEzgC0kZoytCMtw/hUx3kto8
