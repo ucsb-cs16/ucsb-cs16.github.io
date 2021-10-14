@@ -34,6 +34,7 @@ In the following section we will refer to your own machine as your **local** mac
 1. On your local machine, in the root directory navigate to the `.ssh` folder and check that you have both `id_rsa` and `id_rsa.pub` files. 
 		
 	-  Change to `.ssh` directory from home directory
+
 		```
 		cd ~/.ssh
 		```
