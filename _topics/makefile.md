@@ -3,6 +3,8 @@ topic: "makefile"
 desc: "explanation of the Makefile elements"
 ---
 
+See also: <https://ucsb-cs32.github.io/w20/lectures/lect01/>
+
 # Makefile Tutorial 
 > by Lawton Nichols and Jacqueline Mai
 >
