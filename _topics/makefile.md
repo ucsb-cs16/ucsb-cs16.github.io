@@ -3,7 +3,6 @@ topic: "makefile"
 desc: "explanation of the Makefile elements"
 ---
 
-See also: <https://ucsb-cs32.github.io/w20/lectures/lect01/>
 
 # Makefile Tutorial 
 > by Lawton Nichols and Jacqueline Mai
@@ -306,10 +305,9 @@ make has some default rules defined, so we don't actually have to give rules for
 On the terminal, we say make target to perform all the steps we defined in our Makefile for a specific target. For example, we'd say make shapes.o for our Makefile.
     
  
-More references:
-https://www.ibm.com/support/knowledgecenter/en/ssw_aix_71/com.ibm.aix.cmds3/make.htm
- 
-Read more about Separate Compilation and Makefiles:
-https://foo.cs.ucsb.edu/16wiki/index.php/C%2B%2B:_Separate_Compilation_and_Makefiles 
- 
-A Make Tutorial: http://makepp.sourceforge.net/1.19/makepp_tutorial.html
+# More references
+
+* <https://www.ibm.com/support/knowledgecenter/en/ssw_aix_71/com.ibm.aix.cmds3/make.htm>
+* A Make Tutorial: <http://makepp.sourceforge.net/1.19/makepp_tutorial.html>
+* Lecture by Richert Wang <https://ucsb-cs32.github.io/w20/lectures/lect01/>
+
