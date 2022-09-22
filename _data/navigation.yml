@@ -28,7 +28,7 @@ main_dropdown:
 
 offering_menus:
   -
-  term: F22
+    term: F22
     baseurl: /f22
     items: 
       - title: Homework
@@ -39,7 +39,7 @@ offering_menus:
         description: "Lab Assignments"
       - title: Lectures
         url: /lectures/
-        description: "Lecture slides and notes"
+        description: "Lecture notes"
       - title: Exam
         url: /exam/
         description: "Exams"
@@ -58,21 +58,28 @@ offering_menus:
             url: /info
             description: "Other course information"
       - title: Links
-        dropdown:	 
+        dropdown:  
           - title: Gauchospace
             url: https://gauchospace.ucsb.edu
             description: "Overall Grade Information"
+          - title: zyBooks
+            url: https://zyBooks.com
+            description: "Online Textbook"
+          - title: Piazza
+            url: https://piazza.com
+            description: "Q&A Forum"
+          - title: Repl.it
+            url: https://repl.it
+            description: "Online coding"
           - title: GradeScope
             url: https://gradescope.com
             description: "HW and Lab Grades"
-          - title: Piazza
-            url: https://piazza.com/configure-classes/winter2020/cs16w20
-            description: "Q&A Forum"
       - title: Github
         dropdown:
           - title: ucsb-cs16-f22
             url: https://github.com/ucsb-cs16-f22
-    -        
+ 
+  -        
     term: F21
     baseurl: /f21
     items: 
