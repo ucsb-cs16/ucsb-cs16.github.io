@@ -1,7 +1,11 @@
 ---
-topic: "pre-requisites"
+parent: "Resources"
+layout: default
+title: "Pre-Requisites"
 desc: "skills/knowledge needed before you start CS16"
 ---
+
+# {{ page.title }}
 
 CMPSC 16 is NOT an introductory programming course; rather, it is an intermediate level programming course.  Your instructors:
 

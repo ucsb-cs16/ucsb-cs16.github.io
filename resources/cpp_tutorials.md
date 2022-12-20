@@ -1,6 +1,5 @@
 ---
 parent: "Resources"
-grand_parent: Topics
 layout: default
 title: "C++: Tutorials"
 desc: "Online resources for learning C++"

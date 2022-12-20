@@ -1,6 +1,5 @@
 ---
 parent: "Resources"
-grand_parent: Topics
 layout: default
 title:  "Sample Exams"
 desc:  "Exams from previous offerings of CS16"
