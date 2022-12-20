@@ -1,6 +1,9 @@
 ---
-topic: "ssh-remote"
-desc: "Connecting to CSIL remotely from your Mac, Linux or Windows machine"
+parent: Topics
+layout: default
+title:  "ssh-remote"
+description: "Connecting to CSIL remotely from your Mac, Linux or Windows machine"
+has_children: true
 ---
 
 ## Connecting to CSIL

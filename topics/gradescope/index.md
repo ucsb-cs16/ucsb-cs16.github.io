@@ -1,6 +1,9 @@
 ---
-topic: "Gradescope"
-desc: "Making an effective Gradescope regrade request"
+parent: Topics
+layout: default
+title: "Gradescope"
+description: "Making an effective Gradescope regrade request"
+has_children: true
 ---
 
 # How to submit a regrade request
