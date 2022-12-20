@@ -1,5 +1,8 @@
 ---
-topic: "jekyll"
+parent: "Instructor Resources"
+grand_parent: Topics
+layout: default
+title: "jekyll"
 desc: "The software used to produce this very website"
 ---
 
@@ -12,6 +15,8 @@ In order to understand how to maintain this site, it helps to have a bit of know
 * The *Jekyll* static site generating software 
 * The *Liquid* templating language
 
+You may also want to become familiar with [`just-the-docs`](https://just-the-docs.github.io/just-the-docs/), which is a *Jekyll theme*. 
+
 A bit of knowledge of plain old HTML, CSS, and JavaScript can be useful as well.
 
 The purpose of this page is NOT to be a complete reference to all of those things, but rather to accomplish two goals:
@@ -22,7 +27,8 @@ The purpose of this page is NOT to be a complete reference to all of those thing
     
 # A more complete reference
 
-See: <https://ucsb-cs-course-repos.github.io>
+* The newer course repos are using [`just-the-docs`](https://just-the-docs.github.io/just-the-docs/), which is a *Jekyll theme*. 
+* Older course repos may be using a theme documented (poorly) here: <https://ucsb-cs-course-repos.github.io>
     
 # Quick Fixes
 

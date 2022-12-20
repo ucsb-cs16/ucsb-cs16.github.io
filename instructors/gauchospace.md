@@ -1,9 +1,13 @@
 ---
-topic: "gauchospace"
-desc: "UCSB branded course management system (based on Moodle)"
+parent: "Instructor Resources"
+grand_parent: Topics
+layout: default
+title: "Gauchospace"
+desc: "Legacy UCSB branded course management system (based on Moodle)"
 ---
 
-Gauchospace, found at <https://gauchospace.ucsb.edu>, is a UCSB branded installation of Moodle.
+Gauchospace, found at <https://gauchospace.ucsb.edu>, is a UCSB branded installation of Moodle.   It is being phased out during the 2022-2023 school
+year in favor of Canvas, however, prior to the 2022-2023 school year, it was the main Course Management System (CMS) used at UCSB.
 
 A key benefit of Gauchospace is the ability to have a secure centralized gradebook, i.e. one where:
 

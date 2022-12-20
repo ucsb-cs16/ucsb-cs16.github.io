@@ -1,5 +1,8 @@
 ---
-topic: "piazza"
+parent: "Instructor Resources"
+grand_parent: Topics
+layout: default
+title: "piazza"
 desc: "Forum for classroom discussions"
 ---
 
