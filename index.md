@@ -1,5 +1,6 @@
 ---
 title: UCSB CS16
+layout: default
 ---
 
 # Problem Solving with Computers I

@@ -1,94 +1,30 @@
-plugins:
-  - jekyll-remote-theme
-  - jekyll-include-cache
+# remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 
-remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
+incremental: true
 
-suppress_footer: true
+title: "CS16"
 
-title: "UCSB CS16"
-course: "CS16"
-github_url: https://github.com/ucsb-cs16/ucsb-cs16.github.io
-
-# Change this every quarter!
-
-# qtr: "F18"
-
-# instances:
-#   -
-#     instructor: Mirza
-#     site_url: "https://ucsb-cs16-f18-mirza.github.io"
-#     github_org:
-#        name: ucsb-cs16-f18-mirza
-#        url: https://github.com/ucsb-cs16-f18-mirza
-#     piazza_url:  https://piazza.com/ucsb/fall2018/cs16nichols/home
-#     gradescope_url: https://www.gradescope.com/courses/25325       
-#   -
-#     instructor: Nichols
-#     site_url: "https://ucsb-cs16-f18-nichols.github.io"    
-#     github_org:
-#        name: ucsb-cs16-f18-nichols
-#        url: https://github.com/ucsb-cs16-f18-nichols
-#     piazza_url:  https://piazza.com/ucsb/fall2018/cs16nichols/home
-#     gradescope_url: https://www.gradescope.com/courses/25325
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.3"
 
 
-# Other settings
+# Aux links for the upper right navigation
+aux_links:
+  "W23":
+    - "//ucsb-cs16.github.io/w23"
+  "F22":
+    - "//ucsb-cs16.github.io/f22"
 
-instructor: https://ucsb-cs16.github.io/instructor
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
-#kramdown:
-#  parse_block_html: true
-
-exclude: ['vendor', 'setup.sh', 'jekyll.sh']
-
-timezone: America/Los_Angeles
-
-collections:
-  info:
-    output: true
-    permalink: /info/:path/
-
-  topics:
-    output: true
-    permalink: /topics/:path/
-
-  textbooks:
-    output: true
-    permalink: /textbooks/:path/
-
-  resources:
-    output: true
-    permalink: /resources/:path/
-    
-  instructors:
-    output: true
-    permalink: /instructors/:path/
-
-
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default"
-  - scope:
-      path: ""
-      type: topics
-    values:
-      layout: default
-  - scope:
-      path: ""
-      type: info
-    values:
-      layout: default
-  - scope:
-      path: ""
-      type: resources
-    values:
-      layout: default
-  - scope:
-      path: ""
-      type: instructor
-    values:
-      layout: default
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/ucsb-cs16/ucsb-cs16.github.io" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
