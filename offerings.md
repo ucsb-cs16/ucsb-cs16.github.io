@@ -35,7 +35,7 @@ description: "Past offerings of CS16"
 | F16 | Matni      | <https://ucsb-cs16-f16.github.io/> |
 | M16 | Spensky      |  |
 | S16 | Bultan      |  |
-| W16 | Koc      |  |
+| W16 | Koc      | <http://koclab.cs.ucsb.edu/teaching/cs16/> |
 | F15 | Costanzo      |  |
 | M15 | Vigil      |  |
 | S15 | Koc      |  |
