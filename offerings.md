@@ -26,7 +26,7 @@ description: "Past offerings of CS16"
 | S18 | Mirza      | <https://ucsb-cs16-s18-mirza.github.io/> |
 | S18 | Matni      | <https://ucsb-cs16-s18-matni.github.io/> |
 | W18 | Mirza      | <https://ucsb-cs16-w18.github.io/> |
-| W18 | Costanzo   |  |
+| W18 | Costanzo   | <https://sites.cs.ucsb.edu/~mikec/cs16/> |
 | F17 | Matni      | <https://ucsb-cs16-f17.github.io/> |
 | M17 | Nichols    |  |
 | S17 | Matni      | <https://ucsb-cs16-s17.github.io/> |
@@ -42,6 +42,7 @@ description: "Past offerings of CS16"
 | W15 | Conrad      |  |
 | F14 | Conrad      |  |
 | M14 | Bang|  |
+| S14 | Bultan |  |
 | S14 | Costanzo|  |
 | W14 | Costanzo|  |
 | F13 | Buoni|  |
