@@ -14,7 +14,7 @@ description: "Past offerings of CS16"
 | W22 | Deng       | |
 | F21 | Conrad     | <https://ucsb-cs16.github.io/f21/> |
 | M21 | Sisco      | <https://sites.cs.ucsb.edu/~zsisco/cs16/> |
-| F20 | Matni      | <https://ucsb-cs16.github.io/f20/> |
+| F20 | Matni      | <https://github.com/ucsb-cs16/f20> |
 | S20 | Nichols    | <https://ucsb-cs16.github.io/s20/> |
 | W20 | Mirza      | <https://ucsb-cs16.github.io/w20/> |
 | F19 | Mirza      | <https://ucsb-cs16.github.io/f19/> |
