@@ -28,7 +28,7 @@ description: "Past offerings of CS16"
 | W18 | Mirza      | <https://ucsb-cs16-w18.github.io/> |
 | W18 | Costanzo   | <https://sites.cs.ucsb.edu/~mikec/cs16/> |
 | F17 | Matni      | <https://ucsb-cs16-f17.github.io/> |
-| M17 | Nichols    |  |
+| M17 | Nichols    | <https://ucsb-cs16-su17.github.io/> |
 | S17 | Matni      | <https://ucsb-cs16-s17.github.io/> |
 | S17 | Mirza      | <https://ucsb-cs16-sp17.github.io/> |
 | W17 | Costanzo   | |
