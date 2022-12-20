@@ -10,8 +10,8 @@ description: "Past offerings of CS16"
 | Quarter | Instructor | Website (if available) |
 |---------|------------|------------------------|
 | F22 | Mirza      | <https://ucsb-cs16.github.io/f22/> |
-| M22 | Downing    | |
-| W22 | Deng       | |
+| M22 | Downing    | <https://sites.cs.ucsb.edu/~maradowning/cs16/> |
+| W22 | Deng       | <https://ucsb-cs16.github.io/w22> |
 | F21 | Conrad     | <https://ucsb-cs16.github.io/f21/> |
 | M21 | Sisco      | <https://sites.cs.ucsb.edu/~zsisco/cs16/> |
 | F20 | Matni      | <https://github.com/ucsb-cs16/f20> |
