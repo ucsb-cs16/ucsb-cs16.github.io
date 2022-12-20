@@ -19,7 +19,7 @@ description: "Past offerings of CS16"
 | W20 | Mirza      | <https://ucsb-cs16.github.io/w20/> |
 | F19 | Mirza      | <https://ucsb-cs16.github.io/f19/> |
 | S19 | Kharitonova| <https://ucsb-cs16.github.io/s19-ykk/> |
-| W19 | Kharitonova| <https://ucsb-cs16.github.io/s19-ykk/> |
+| W19 | Kharitonova| <https://ucsb-cs16.github.io/w19/> |
 | F18 | Nichols    | <https://ucsb-cs16-f18-nichols.github.io/> |
 | F18 | Mirza      | <https://ucsb-cs16-f18-mirza.github.io/> |
 | M18 | R.K. Wang  | <https://ucsb-cs16-m18.github.io/> |
