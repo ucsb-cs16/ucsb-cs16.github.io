@@ -1,6 +1,5 @@
 ---
 parent: "Instructor Resources"
-grand_parent: Topics
 layout: default
 title: "Egrades"
 description: "faculty access to course rosters, and where you upload your grades"

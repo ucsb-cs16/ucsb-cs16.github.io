@@ -1,9 +1,8 @@
 ---
 parent: "Instructor Resources"
-grand_parent: Topics
 layout: default
 title: "jekyll"
-desc: "The software used to produce this very website"
+description: "The software used to produce this very website"
 ---
 
 The website you are now looking at is hosting on Github Pages.   Github Pages uses software called *Jekyll* to turn

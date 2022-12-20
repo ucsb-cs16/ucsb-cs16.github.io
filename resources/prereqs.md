@@ -2,7 +2,7 @@
 parent: "Resources"
 layout: default
 title: "Pre-Requisites"
-desc: "skills/knowledge needed before you start CS16"
+description: "skills/knowledge needed before you start CS16"
 ---
 
 # {{ page.title }}

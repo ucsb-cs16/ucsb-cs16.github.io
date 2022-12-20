@@ -2,7 +2,7 @@
 parent: "Resources"
 layout: default
 title: "C++: Tutorials"
-desc: "Online resources for learning C++"
+description: "Online resources for learning C++"
 ---
 
 Some web sites you can use to supplement your study of C++:

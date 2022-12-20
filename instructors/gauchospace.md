@@ -1,9 +1,8 @@
 ---
 parent: "Instructor Resources"
-grand_parent: Topics
 layout: default
 title: "Gauchospace"
-desc: "Legacy UCSB branded course management system (based on Moodle)"
+description: "Legacy UCSB branded course management system (based on Moodle)"
 ---
 
 Gauchospace, found at <https://gauchospace.ucsb.edu>, is a UCSB branded installation of Moodle.   It is being phased out during the 2022-2023 school

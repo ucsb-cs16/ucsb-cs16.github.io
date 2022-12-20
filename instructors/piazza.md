@@ -1,9 +1,8 @@
 ---
 parent: "Instructor Resources"
-grand_parent: Topics
 layout: default
 title: "piazza"
-desc: "Forum for classroom discussions"
+description: "Forum for classroom discussions"
 ---
 
 [piazza.com](https://piazza.com) is a commerical, for-profit enterprise that offers a product for classroom discussion forums.

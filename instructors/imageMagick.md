@@ -1,6 +1,5 @@
 ---
 parent: "Instructor Resources"
-grand_parent: Topics
 layout: default
 title: "ImageMagick"
 description: "command line tool for manipulating images"

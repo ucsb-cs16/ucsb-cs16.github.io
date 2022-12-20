@@ -1,9 +1,8 @@
 ---
 parent: "Instructor Resources"
-grand_parent: Topics
 layout: default
 title: "Canvas"
-desc: "Course Management System used at UCSB (starting with 2022-2023)"
+description: "Course Management System used at UCSB (starting with 2022-2023)"
 ---
 
 During the 2022-2023 school year, UCSB is migrating to Canvas as it's 

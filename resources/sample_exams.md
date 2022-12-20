@@ -2,7 +2,7 @@
 parent: "Resources"
 layout: default
 title:  "Sample Exams"
-desc:  "Exams from previous offerings of CS16"
+description:  "Exams from previous offerings of CS16"
 ---
 
 ## Disclaimer
