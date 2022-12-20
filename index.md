@@ -1,6 +1,9 @@
 ---
-title: UCSB CS16
+title: "UCSB CS16"
 layout: default
+nav_order: 0
+description: "CMPSC 16 at UC Santa Barbara"
+permalink: /
 ---
 
 # Problem Solving with Computers I
@@ -18,37 +21,3 @@ This site is maintained in this github repo: <https://github.com/ucsb-cs16/ucsb-
    list of specific skills and knowledge you need before starting the course.
 * [Older materials from Conrad's 16wiki](https://foo.cs.ucsb.edu/16wiki) site.
 * [Older materials from Conrad's personal website](https://www.cs.ucsb.edu/~pconrad/cs16)
-
-# Previous Offerings of CS16 not in the menu above
-
-* [M21 Sisco](https://sites.cs.ucsb.edu/~zsisco/cs16/)
-* [M18 R.K. Wang](https://ucsb-cs16-m18.github.io/)
-* [S18 Mirza](https://ucsb-cs16-s18.github.io)
-* [W18 Mirza](https://ucsb-cs16-w18.github.io)
-* [S17 Matni](https://ucsb-cs16-s17.github.io)
-* [S17 Mirza](https://ucsb-cs16-sp17.github.io)
-* [W17 Mirza](https://ucsb-cs16-wi17.github.io)
-* [F17 Matni](https://ucsb-cs16-f17.github.io)
-
-</div><!-- about -->
-
-
-<div id="topics" data-role="collapsible" data-collapsed="false">
-  <h2>Topics</h2>
-  <ul>
-   {% for topic in site.topics %}
-     <li {% if topic.indent %} class="indent" {% endif %}><a href="{{topic.url}}">{{ topic.topic }}</a>&mdash;{{topic.desc}}</li>
-   {% endfor %}
-  </ul>
-</div>
-
-
-<div id="resources" data-role="collapsible" data-collapsed="false">
-  <h2>Resources</h2>
-  <ul>
-   {% for topic in site.resources %}
-     <li {% if topic.indent %} class="indent" {% endif %}><a href="{{topic.url}}">{{ topic.topic }}</a>&mdash;{{topic.desc}}</li>
-   {% endfor %}
-  </ul>
-</div>
-
