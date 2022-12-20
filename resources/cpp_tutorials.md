@@ -1,9 +1,12 @@
 ---
-topic: "C++: Tutorials"
+parent: "Resources"
+grand_parent: Topics
+layout: default
+title: "C++: Tutorials"
 desc: "Online resources for learning C++"
 ---
 
-Foursupplementary sites you can use to check and supplement your study of C++:
+Some web sites you can use to supplement your study of C++:
 
 * [http://www.cplusplus.com/doc/tutorial/](http://www.cplusplus.com/doc/tutorial/)
 * [http://www.learncpp.com/](http://www.learncpp.com/)
