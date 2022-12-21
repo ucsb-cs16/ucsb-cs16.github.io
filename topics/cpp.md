@@ -1,6 +1,8 @@
 ---
-topic: "C++"
-desc: "The C++ programming language"
+layout: default
+parent: Topics
+title: "C++"
+description: "The C++ programming language"
 ---
 
 C++ was introduced by Bjarne Straustroup, an employee of Bell Labs, in 1979, first under the name "C with classes".    It was later renamed

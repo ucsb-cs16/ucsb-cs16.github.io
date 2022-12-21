@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Past Offerings"
 layout: default
 nav_order: 4

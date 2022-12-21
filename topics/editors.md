@@ -1,6 +1,8 @@
 ---
-topic: "editors"
-desc: "An overview of programs for editing C++ code"
+layout: default
+parent: Topics
+title: "Editors"
+description: "An overview of programs for editing C++ code"
 ---
 
 # Some options

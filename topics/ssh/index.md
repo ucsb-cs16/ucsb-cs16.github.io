@@ -1,7 +1,7 @@
 ---
 parent: Topics
 layout: default
-title:  "ssh-remote"
+title:  "Ssh"
 description: "Connecting to CSIL remotely from your Mac, Linux or Windows machine"
 has_children: true
 ---

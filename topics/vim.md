@@ -1,6 +1,8 @@
 ---
-topic: "vim"
-desc: "a widely used text editor among Unix users"
+layout: default
+parent: Topics
+title: "Vim"
+description: "a widely used text editor among Unix users"
 ---
 
 # What is vim?

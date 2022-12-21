@@ -1,6 +1,8 @@
 ---
-topic: "git: basic workflow"
-desc: "The basics: git add..., git commit..., git push ... "
+layout: default
+parent: Topics
+title: "Git: basic workflow"
+description: "The basics: git add..., git commit..., git push ... "
 indent: true
 ---
 

@@ -1,7 +1,10 @@
 ---
-topic: "antipatterns"
-desc: "Things to avoid in your code"
+layout: default
+parent: Topics
+title: "Antipatterns"
+description: "Things to avoid in your code"
 ---
+
 
 Definition
 ==========

@@ -1,6 +1,8 @@
 ---
-topic: "C++ functions"
-desc: "C++ function prototypes"
+layout: default
+parent: Topics
+title: "C++ functions"
+description: "C++ function prototypes"
 ---
 
 # In C and C++, order matters when you're defining functions

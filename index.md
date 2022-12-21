@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "UCSB CS16"
 layout: default
 nav_order: 0

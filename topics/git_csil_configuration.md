@@ -1,6 +1,8 @@
 ---
-topic: "git/github: CSIL configuration"
-desc: "Configuring your CSIL account to use git"
+layout: default
+parent: Topics
+title: "Git/github: CSIL configuration"
+description: "Configuring your CSIL account to use git"
 indent: true
 prefix: "git/github: "
 ---

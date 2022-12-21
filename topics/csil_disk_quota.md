@@ -1,6 +1,8 @@
 ---
-topic: "CSIL: disk quota and file quota issues"
-desc: "How to diagnose and fix"
+layout: default
+parent: Topics
+title: "Csil: disk quota and file quota issues"
+description: "How to diagnose and fix"
 ---
 
 # CSIL disk quota Troubleshooting

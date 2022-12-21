@@ -1,6 +1,8 @@
 ---
-topic: "sshfs"
-desc: "Accessing your files on CSIL directly from your Mac, Linux or Windows machine"
+layout: default
+parent: Topics
+title: "Sshfs"
+description: "Accessing your files on CSIL directly from your Mac, Linux or Windows machine"
 ---
 
 Detailed instructions for sshfs are not yet available.

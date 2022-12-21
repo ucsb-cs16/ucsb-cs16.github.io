@@ -1,6 +1,8 @@
 ---
-topic: "CSIL: Copying files"
-desc: "Copying files between your local computer and CSIL"
+layout: default
+parent: Topics
+title: "Csil: Copying files"
+description: "Copying files between your local computer and CSIL"
 ---
 
 # Using `scp` to transfer files

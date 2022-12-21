@@ -1,7 +1,8 @@
-mac.md
 ---
-topic: Mac OS
-desc: "Setting up an environment to do CS56 work on your own Mac (not ssh'ing into CSIL)"
+layout: default
+parent: Topics
+title: MacOS
+description: "Setting up an environment to do CS56 work on your own Mac (not ssh'ing into CSIL)"
 ---
 
 For certain kinds of programs, i.e. graphics, and especially sound, 

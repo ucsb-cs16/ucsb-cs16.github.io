@@ -1,6 +1,8 @@
 ---
-topic: "code"
-desc: "Visual Studio Code, a free-open source graphical editor available on CSIL, plus Mac, Windows, Linux"
+layout: default
+parent: Topics
+title: "Code"
+description: "Visual Studio Code, a free-open source graphical editor available on CSIL, plus Mac, Windows, Linux"
 ---
 
 Visual Studio Code is a free and open source graphical editor.  While it is free and open source, it should be noted that

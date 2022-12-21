@@ -1,6 +1,8 @@
 ---
-topic: "bash"
-desc: "Unix command line shell, and a programming language"
+layout: default
+parent: Topics
+title: "Bash"
+description: "Unix command line shell, and a programming language"
 ---
 
 When you type in commands at the Unix command line, you are using one on several command line *shell* programs.

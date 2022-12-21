@@ -1,6 +1,8 @@
 ---
-topic: "compilers"
-desc: "programs that translate C++ to machine code (g++, clang)"
+layout: default
+parent: Topics
+title: "Compilers"
+description: "programs that translate C++ to machine code (g++, clang)"
 ---
 
 In programming, the term <em>compiler</em> refers to a program that:

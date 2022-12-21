@@ -1,6 +1,8 @@
 ---
-topic: "vim: customization"
-desc: "customizing vim for your purposes"
+layout: default
+parent: Topics
+title: "Vim: customization"
+description: "customizing vim for your purposes"
 indent: true
 ---
 

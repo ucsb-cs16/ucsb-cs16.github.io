@@ -1,6 +1,8 @@
 ---
-topic: "C++: data types"
-desc: "int, float, double, etc."
+layout: default
+parent: Topics
+title: "C++: data types"
+description: "int, float, double, etc."
 ---
 
 Before we can even begin to talk about how to compute something, we

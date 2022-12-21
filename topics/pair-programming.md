@@ -1,6 +1,8 @@
 ---
-topic: "Pair Programming Guidelines"
-desc: "The guidelines for successful pair programming"
+layout: default
+parent: Topics
+title: "Pair Programming Guidelines"
+description: "The guidelines for successful pair programming"
 ---
 
 # Pair Programming Guidelines

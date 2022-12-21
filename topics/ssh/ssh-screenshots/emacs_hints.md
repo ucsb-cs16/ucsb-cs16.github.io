@@ -1,8 +1,8 @@
 ---
 #layout: topics
 layout: default
-topic: "emacs hints"
-desc: "Getting started if you've never used emacs before"
+title: "emacs hints"
+description: "Getting started if you've never used emacs before"
 ---
 
 [Back](../)

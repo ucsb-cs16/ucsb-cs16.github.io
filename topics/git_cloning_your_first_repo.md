@@ -1,6 +1,8 @@
 ---
-topic: "git: cloning your first repo"
-desc: "A guide for those new to git"
+layout: default
+parent: Topics
+title: "Git: cloning your first repo"
+description: "A guide for those new to git"
 indent: true
 ---
 

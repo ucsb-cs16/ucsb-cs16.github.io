@@ -1,6 +1,8 @@
 ---
-topic: "Unix: Misc tools"
-desc: "Various useful command line tools you may not know about"
+layout: default
+parent: Topics
+title: "Unix: Misc tools"
+description: "Various useful command line tools you may not know about"
 ---
 
 There are a lot of useful tools that you can use at the Unix command line.  

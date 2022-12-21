@@ -1,8 +1,9 @@
 ---
-topic: "atom"
-desc: "graphical editor available on CSIL, plus Mac, Windows, Linux"
+layout: default
+parent: Topics
+title: "Atom"
+description: "graphical editor available on CSIL, plus Mac, Windows, Linux"
 ---
-
 
 Atom is a graphical editor that is similar to Sublime Text, but free and open source.
 

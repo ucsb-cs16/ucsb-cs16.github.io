@@ -1,6 +1,8 @@
 ---
-topic: "github: creating private repos under an organization"
-desc: "for closed source class assignments"
+layout: default
+parent: Topics
+title: "Github: creating private repos under an organization"
+description: "for closed source class assignments"
 indent: true
 ---
 

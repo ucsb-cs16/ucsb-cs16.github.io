@@ -1,6 +1,8 @@
 ---
-topic: "make"
-desc: "most commonly used old-school build tool for C/C++ projects"
+layout: default
+parent: Topics
+title: "Make"
+description: "most commonly used old-school build tool for C/C++ projects"
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-topic: "vim: basic eight"
-desc: "eight things you need to know how to do for your survival"
+layout: default
+parent: Topics
+title: "Vim: basic eight"
+description: "eight things you need to know how to do for your survival"
 indent: true
 ---
 

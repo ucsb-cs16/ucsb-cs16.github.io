@@ -1,6 +1,8 @@
 ---
-topic: "git/github"
-desc: "An introduction. git vs. github.com, repos, etc."
+layout: default
+parent: Topics
+title: "Git/github"
+description: "An introduction. git vs. github.com, repos, etc."
 ---
 
 A few basics facts about git, github.com

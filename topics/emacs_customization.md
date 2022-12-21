@@ -1,6 +1,8 @@
 ---
-topic: "emacs: customization"
-desc: "making changes that happen every time you run emacs"
+layout: default
+parent: Topics
+title: "Emacs: customization"
+description: "making changes that happen every time you run emacs"
 indent: true
 ---
 

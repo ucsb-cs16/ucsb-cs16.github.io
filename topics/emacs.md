@@ -1,6 +1,8 @@
 ---
-topic: "emacs"
-desc: "general purpose text editor with programmer-friendly features"
+layout: default
+parent: Topics
+title: "Emacs"
+description: "general purpose text editor with programmer-friendly features"
 ---
 
 

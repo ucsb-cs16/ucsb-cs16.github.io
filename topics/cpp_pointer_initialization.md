@@ -1,6 +1,8 @@
 ---
-topic: "C++ pointers, initialization"
-desc: "What is the initial value of a pointer variable?"
+layout: default
+parent: Topics
+title: "C++ pointers, initialization"
+description: "What is the initial value of a pointer variable?"
 ---
 
 This code declares p as a pointer to an int as a local variable:

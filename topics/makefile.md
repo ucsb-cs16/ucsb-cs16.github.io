@@ -1,6 +1,8 @@
 ---
-topic: "makefile"
-desc: "explanation of the Makefile elements"
+layout: default
+parent: Topics
+title: "Makefile"
+description: "explanation of the Makefile elements"
 ---
 
 

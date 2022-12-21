@@ -1,6 +1,8 @@
 ---
-topic: "github: using ssh keys"
-desc: "generating public/private key pair, uploading public key to github"
+layout: default
+parent: Topics
+title: "Github: using ssh keys"
+description: "generating public/private key pair, uploading public key to github"
 indent: true
 ---
 
