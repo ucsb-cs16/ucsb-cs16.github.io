@@ -44,3 +44,14 @@ It isn't immediately obvious where you do this.  Here's how:
 
    <img width="400" alt="image" src="https://user-images.githubusercontent.com/1119017/209006434-72ade850-481d-4b99-ba13-ffa6738cb5ef.png">
  
+4. There are two parts of this page:
+   * The collection of things that are being used in the course are in the top part
+   * The collection of things that are **not** being used in the course are in the bottom part
+   * Then **don't forget to scroll down and click SAVE** or else your changes won't stick!
+   
+   Drag things into the top part if you want to use them; drag things to the bottom if you don't.  For example, here's a typical collection of tools
+   that might be used for CMPSC 16:
+
+   <img width="444" alt="image" src="https://user-images.githubusercontent.com/1119017/209007165-af948042-b42a-46bc-9eff-8e8e0ca7783a.png">
+   
+   
