@@ -21,3 +21,26 @@ Other benefits:
 
 A consideration whenusing Canvas for actual curriculum *content*  (e.g. content of lectures, labs, homework and programming
 assignments) is that typically only students enrolled in the course can see that content.   This can make sharing curriculum resources more cumbersome.
+
+# Canvas Quick Tips (for instructors)
+
+## Setting up a reasonable subset of Canvas
+
+When you get a new Canvas course set up, one of the first decisions you need to make is:
+
+* **Which parts of Canvas** am I going to use?
+
+It isn't immediately obvious where you do this.  Here's how:
+
+1. Find the Settings menu option at the bottom of the left navigation:
+
+   <img width="400" alt="image" src="https://user-images.githubusercontent.com/1119017/209006241-c4f1b1a0-bd08-4e62-8017-c7c9cc5f032b.png">
+   
+2. Click Settings, and it will take you to this:
+
+   <img width="400" alt="image" src="https://user-images.githubusercontent.com/1119017/209006384-b7ebf585-7e68-4bbf-b6c3-ebeca9e029b5.png">
+   
+3. Now, you want to click where it says `Navigation`, and you'll end up here:
+
+   <img width="400" alt="image" src="https://user-images.githubusercontent.com/1119017/209006434-72ade850-481d-4b99-ba13-ffa6738cb5ef.png">
+ 
