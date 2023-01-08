@@ -47,5 +47,5 @@ We have included this language for quite some time because we are aware that we 
 Computer Science major for as many students as would like to pursue it.   This is also not a new situation, and not one that is limited to UC Santa Barbara; see, for example:
 
 * [The Hard Part of Computer Science? Getting Into Class (NY Times, Jan. 24, 2019, Section A, Page 1 )](https://www.nytimes.com/2019/01/24/technology/computer-science-courses-college.html)
-* [[UC Berkeley] College of Letters and Science plans to limit high-demand majors, Daily Californian, August 24, 2022](https://www.dailycal.org/2022/08/24/campus-college-of-letters-and-science-plans-to-limit-high-demand-majors)
-* [Editorial: Close gap between supply and demand in computer science programs for WA students.  Seattle Times, June 8, 2022 ](https://www.seattletimes.com/opinion/editorials/close-gap-between-supply-and-demand-in-computer-science-programs-for-wa-students/)
+* [[UC Berkeley] College of Letters and Science plans to limit high-demand majors. (Daily Californian, August 24, 2022)](https://www.dailycal.org/2022/08/24/campus-college-of-letters-and-science-plans-to-limit-high-demand-majors)
+* [Editorial: Close gap between supply and demand in computer science programs for WA students.  (Seattle Times, June 8, 2022)](https://www.seattletimes.com/opinion/editorials/close-gap-between-supply-and-demand-in-computer-science-programs-for-wa-students/)
