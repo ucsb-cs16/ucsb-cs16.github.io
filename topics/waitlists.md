@@ -13,8 +13,8 @@ By Phill Conrad, Teaching Professor, CS Department, UC Santa Barbara.
 
 Students often ask about how waitlists and crashing works for CMPSC 16.  
 
-While this is written from a CMPSC 16 perspective, a lot of it applies to other highly impacted lower division courses such as CMPSC 8, 9, and 24.  I'll describe CMPSC 16 first, and then
-make a few remarks about whether 8, 9, and 24 may be different.
+While this is written from a CMPSC 16 perspective, a lot of it applies to other highly impacted lower division courses such as CMPSC 8, 9.  I'll describe CMPSC 16 first, and then
+make a few remarks about whether 8, and 9 may be different.
 
 Here's the short version:
 * First and second registration passes for CMPSC 16 are typically restricted to certain majors
@@ -68,6 +68,23 @@ Solving the problem that there aren't enough seats in CS classrooms at UCSB (in 
 That, I do not know how to do.  For years, I beat myself up because I couldn't address this question.  I'm starting to let myself off the hook, because it's just bigger than both of us.
 
 I truly wish I had a better answer.
+
+# Don't you have any suggestions at all?
+
+Ok, there are a few things that I've seen students try that sometimes work:
+
+* There may be UC Online courses (in particular, a few offered through UC Riverside) that might be transferrable as CMPSC 8 and/or CMPSC 16.   
+* You may be able to take a CMPSC 8 or CMPSC 16 equivalent at a Community College; see [assist.org](https://assist.org) to see what might transfer.
+
+If you can get past 8 and/or 16, it sometimes is easier then to get into CMPSC 24 or CMPSC 40 as a non-major, because there are fewer students at that point in the pipeline that are trying.    But I need to emphasize: there is no guarantee.
+
+# Is it different for CMPSC 8 and 9?
+
+Not that much.  The main differences are:
+
+* CMPSC 8 is required for more than just CMPSC and CMPEN, so there are few more majors that might get priority.  These change from time to time, so I won't list them here.
+* We typically offer many more seats in CMPSC 8 than in CMPSC 16 each year.
+* CMPSC 9 is intended for student in certain PSTAT majors, so they may get priority for CMPSC 9.  Note that CMPSC 9 is not on the path towards change of major into Computer Science or Computer Engineering.
 
 # Disclaimer
 
