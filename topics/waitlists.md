@@ -5,6 +5,8 @@ title: "Waitlists"
 description: "How waitlists work for CS16 (and other lower div courses)"
 ---
 
+# {{page.title}}
+
 Students often ask about how waitlists and crashing works for CMPSC 16.  
 
 While this is written from a CMPSC 16 perspective, a lot of it applies to other highly impacted lower division courses such as CMPSC 8, 9, and 24.  I'll describe CMPSC 16 first, and then
