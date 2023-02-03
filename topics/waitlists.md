@@ -25,7 +25,7 @@ Here's the short version:
 
 We use this approach because the waitlist typically has anywhere from thirty to over a hundred students on it.  Not knowing whether you will get into a course or not
 is stressful.  And, for the course staff, dealing with "churn" (i.e. students adding/dropping throughout the first 2-3 weeks) creates additional problems for everyone.  Our approach is to 
-take as many students as we can *before* the first day of class, and then everyone can start the quarter knowing exactly where they standY&mdash;either in, or out.
+take as many students as we can *before* the first day of class, and then everyone can start the quarter knowing exactly where they stand&mdash;either in, or out.
 
 # But then, how can I make sure that I can eventually get into CMPSC 16
 
