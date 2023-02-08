@@ -8,8 +8,6 @@ has_children: true
 
 # Connecting to CSIL
 
-
-
 ## On Mac OS X:
 
 1. Open the "Terminal" application. It is found inside the <em>Applications</em> folder of your main drive, inside the <em>Utilities</em> subfolder. The icon looks like this:
@@ -22,18 +20,18 @@ Once you have a terminal window open on your machine, you next need to **connect
 
 You will do this using a UNIX command (an internet protocol, really) called <em>SSH</em> (short for Secure SHell).
 
-Type the following command in your terminal, replacing <b>USERNAME</b> with <b>your CoE username</b> and substituting ## with a number between 01 and 48 (**make sure to have a 0 in front**, if you are using numbers between 1 and 9). 
-**Note**:
+Type the following command in your terminal, replacing <b>USERNAME</b> with <b>your CoE username</b> 
+
 The <b>$</b> represents the terminal prompt; <i>you won't type this character</i>. Whenever you see it, that means that the following command is intended to be typed into the terminal window and run by pressing Enter.
 
 ```
-$ ssh USERNAME@csil-##.cs.ucsb.edu
+$ ssh USERNAME@csil.cs.ucsb.edu
 ```
 
 SSH will first ask you a question which looks like this:
 
 ```
-The authenticity of host 'csil-[01-48].cs.ucsb.edu (128.111.43.14)' can't be established.
+The authenticity of host 'csil.cs.ucsb.edu (128.111.43.14)' can't be established.
 RSA key fingerprint is 90:ab:6a:31:0b:81:62:25:9b:11:50:05:18:d3:1a:b5.
 Are you sure you want to continue connecting (yes/no)?
 
@@ -56,26 +54,21 @@ This should show <b>csil-[01-48].cs.ucsb.edu</b>. You can now do anything you co
 
 Windows has it's built-in SSH client, and you can connect through CSIL directly through SSH from the CMD.
 
-To install the SSH Client, go to your `Windows Settings`
+To install the SSH Client:
 
-Then, go to `Apps`
-
-Under `Apps`, go to `Manage optional features` under the page `Apps & features`
-
-From there, click `Add a feature`
-
-Scroll all the way down, find `OpenSSH Client`, install it
-
-If `OpenSSH Client` isn't under `Add a feature`, go back, scroll all the way down and check if your Windows already has the `OpenSSH Client`
-
-If Windows prompts a restart, restart your computer
+1. Go to your `Windows Settings`
+2. Then, go to `Apps`
+3. Under `Apps`, go to `Manage optional features` under the page `Apps & features`
+4. From there, click `Add a feature`
+5. Scroll all the way down, find `OpenSSH Client`, install it
+6. If `OpenSSH Client` isn't under `Add a feature`, go back, scroll all the way down and check if your Windows already has the `OpenSSH Client`
+7. If Windows prompts a restart, restart your computer
 
 Now that you have your Windows SSH client installed, open your `Command Prompt`
 
 Follow the command for MacOS from above, you should be prompted with the same messages, prompts to enter your COE password. Once successful, you should now be connected to CSIL through SSH, under Windows' CMD
 
 Note: You can now also use `scp` to copy files between your laptop and CSIL
-
 
 ## On Ubuntu (an example of a Linux OS):
 
@@ -86,3 +79,5 @@ Note: You can now also use `scp` to copy files between your laptop and CSIL
 2. Click on that icon to open the search menu. Then type "terminal" and click on the "Terminal" application which appears:
 
 ![ubuntu-search](ssh-screenshots/ubuntu-search.png)
+
+3. Follow the command for MacOS from above, you should be prompted with the same messages, prompts to enter your COE password. Once successful, you should now be connected to CSIL through SSH, under Windows' CMD
