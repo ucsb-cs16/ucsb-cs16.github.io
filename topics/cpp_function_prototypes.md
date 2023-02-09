@@ -124,5 +124,7 @@ int multiply_by_4(int x);
 int multiply_by_2(int x);
 ```
 
-Notice that we now have <i>two</i> files in our program: functions3.cpp and functions3.h. Also notice that we give the name of the *.h file we are #including inside double-quotes instead of angled braces. This tells the compiler to look for this header file in the same place that the *.cpp file is located instead of in the place where the system usually stores *.h files.
+Notice that we now have <i>two</i> files in our program: `functions3.cpp` and `functions3.h`. Also notice that we give the name of the `*.h` file we are `#include`-ing inside double-quotes instead of angled braces. T
+
+This tells the compiler to look for this header file in the same place that the `*.cpp` file is located instead of in the place where the system usually stores `*.h` files.
 
