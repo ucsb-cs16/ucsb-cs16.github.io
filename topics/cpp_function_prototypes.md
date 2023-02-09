@@ -12,7 +12,7 @@ In general, you can only call a function that has already been defined.<br />
 The example below does not work because of the order of the functions. Can you fix it?
 
 
-```
+```cpp
 #include <iostream>
 
 int multiply_by_4(int x)
@@ -49,7 +49,7 @@ Function prototypes are the way we declare the functions we intend to use in a p
 
 The example below shows how to fix the first program without re-arranging the function order.<br /> 
 
-```
+```cpp
 #include <iostream>
 
 int multiply_by_4(int x);
@@ -89,7 +89,7 @@ It's a bit ugly to have all these prototypes at the top of a program. Large prog
 
 The following example illustrates how to use a header file to solve the first problem without cluttering the top of the file with prototypes.
 
-```
+```cpp
 #include "functions3.h"
 
 int multiply_by_4(int x)
@@ -119,7 +119,7 @@ int main()
 }
 ```
 
-```
+```cpp
 int multiply_by_4(int x);
 int multiply_by_2(int x);
 ```
