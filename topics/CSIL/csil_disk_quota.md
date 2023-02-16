@@ -1,8 +1,10 @@
 ---
+parent: CSIL
+grand_parent: Topics
 layout: default
-parent: Topics
-title: "Csil: disk quota and file quota issues"
-description: "How to diagnose and fix"
+title: "CSIL: disk quota and file quota issues"
+description:  "How to diagnose and fix"
+indent: true
 ---
 
 # CSIL disk quota Troubleshooting
@@ -164,10 +166,10 @@ Two very important things about this step:
 # Number Of Files Problems (too many files)
 
 
-Now if you are being limited by number of files, you can run the command:
+Now if you are being limited by number of files, you can run the command `countfiles` from Phill Conrad's `bin` directory as follows:
 
 ```
-[goodman@booboo ~]$ /usr/local/bin/countfiles
+[goodman@booboo ~]$ /cs/faculty/pconrad/bin/countfiles
 
 Searching: current directory (this might take a few minutes)...
 
@@ -188,6 +190,8 @@ _____	_________
 
 Use count_files.pl --man for more information
 ```
+
+This useful script comes from this [git repo](https://github.com/rkip/countfiles) and used to be maintained on CSIL, but was removed for reasons that still are not entirely clear (since there is no other common Unix utility that fills this niche.)
 
 If you've taken a number of CS classes and are not bumping up against the blocks quota, you can simply choose to tarball your older CS folders in order to reduce the file count of each folder to 1.   You can always untar them again later if you need them (`tar -zxvf cs24.tar.gz` is used to undo restore from the tarball. )
 

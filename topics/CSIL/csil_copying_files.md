@@ -1,6 +1,7 @@
 ---
+parent: CSIL
+grand_parent: Topics
 layout: default
-parent: Topics
 title: "Csil: Copying files"
 description: "Copying files between your local computer and CSIL"
 ---
