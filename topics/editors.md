@@ -8,7 +8,7 @@ description: "An overview of programs for editing C++ code"
 # Some options
 
 * Simple terminal based editors on CSIL:
-   * [`vim`]([topics/vim.html))
+   * [`vim`](/topics/vim.html)
    * [`emacs`](/topics/emacs.html)
 * Simple graphical editors on CSIL:
    * [`atom`](/topics/atom.html)
