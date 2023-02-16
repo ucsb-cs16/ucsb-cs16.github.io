@@ -216,7 +216,7 @@ shapes.o: shapes.cpp
     g++ -Wall -Werror -c shapes.cpp
  
 tdd.o: tdd.cpp
-g++ -Wall -Werror -c tdd.cpp
+    g++ -Wall -Werror -c tdd.cpp
  
 testShapes.o: testShapes.cpp
     g++ -Wall -Werror -c testShapes.cpp
