@@ -13,6 +13,8 @@ mermaid:
 
 # Aux links for the upper right navigation
 aux_links:
+  "S23": 
+    - "//ucsb-cs16.github.io/s23"
   "W23":
     - "//ucsb-cs16.github.io/w23"
   "F22":
